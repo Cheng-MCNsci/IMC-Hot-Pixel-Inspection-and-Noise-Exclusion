@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1800" viewBox="0 0 960 1800" role="img" aria-labelledby="title desc">
+<title id="title">IMC pipeline: parallel inputs and dependencies</title>
+<desc id="desc">Ten directed connections link six steps. Inputs feed cell inspection, cell-size eligibility and final quantification directly. Marker cutoffs define hot-pixel aggregates. Aggregate analysis feeds spread review, cell exclusion and the final hot-pixel mask. Adopted noise spread masks feed cell exclusion and pixel removal. Retained cell identities feed final quantification.</desc>
+<style>text{font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#14323d;text-anchor:middle} .node{fill:#f0f7f6;stroke:#7da9ad;stroke-width:1.5}.heading{font-size:18px;font-weight:700}.body{font-size:16px}.edge{fill:none;stroke-width:2;stroke-linejoin:round}.edge-label rect{fill:white;stroke:#d9e4e5;stroke-width:1;rx:9}.edge-label text{font-size:14px;font-weight:550}.input{stroke:#506974;marker-end:url(#input-arrow)}.hot{stroke:#087f83;marker-end:url(#hot-arrow)}.spread{stroke:#98641b;marker-end:url(#spread-arrow)}.retained{stroke:#14323d;marker-end:url(#retained-arrow)}</style>
+<defs>
+<marker id="input-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 1L9 5L0 9" fill="none" stroke="#506974" stroke-width="1.5"/></marker>
+<marker id="hot-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 1L9 5L0 9" fill="none" stroke="#087f83" stroke-width="1.5"/></marker>
+<marker id="spread-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 1L9 5L0 9" fill="none" stroke="#98641b" stroke-width="1.5"/></marker>
+<marker id="retained-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 1L9 5L0 9" fill="none" stroke="#14323d" stroke-width="1.5"/></marker>
+</defs><rect width="960" height="1800" fill="white"/>
+<path d="M250 160V235" fill="none" stroke="white" stroke-width="7"/><path class="edge input" data-from="1" data-to="2" d="M250 160V235"/>
+<path d="M325 160V185Q325 195 335 195H640Q650 195 650 205V1150Q650 1160 640 1160H600Q590 1160 590 1170V1195" fill="none" stroke="white" stroke-width="7"/><path class="edge input" data-from="1" data-to="5" d="M325 160V185Q325 195 335 195H640Q650 195 650 205V1150Q650 1160 640 1160H600Q590 1160 590 1170V1195"/>
+<path d="M400 160V170Q400 180 410 180H865Q875 180 875 190V1505Q875 1515 865 1515H635Q625 1515 625 1525V1550" fill="none" stroke="white" stroke-width="7"/><path class="edge input" data-from="1" data-to="6" d="M400 160V170Q400 180 410 180H865Q875 180 875 190V1505Q875 1515 865 1515H635Q625 1515 625 1525V1550"/>
+<path d="M260 385V490" fill="none" stroke="white" stroke-width="7"/><path class="edge hot" data-from="2" data-to="3" d="M260 385V490"/>
+<path d="M185 680V825" fill="none" stroke="white" stroke-width="7"/><path class="edge hot" data-from="3" data-to="4" d="M185 680V825"/>
+<path d="M260 680V710Q260 720 270 720H500Q510 720 510 730V1195" fill="none" stroke="white" stroke-width="7"/><path class="edge hot" data-from="3" data-to="5" d="M260 680V710Q260 720 270 720H500Q510 720 510 730V1195"/>
+<path d="M335 680V690Q335 700 345 700H735Q745 700 745 710V1480Q745 1490 735 1490H575Q565 1490 565 1500V1550" fill="none" stroke="white" stroke-width="7"/><path class="edge hot" data-from="3" data-to="6" d="M335 680V690Q335 700 345 700H735Q745 700 745 710V1480Q745 1490 735 1490H575Q565 1490 565 1500V1550"/>
+<path d="M235 1045V1070Q235 1080 245 1080H400Q410 1080 410 1090V1195" fill="none" stroke="white" stroke-width="7"/><path class="edge spread" data-from="4" data-to="5" d="M235 1045V1070Q235 1080 245 1080H400Q410 1080 410 1090V1195"/>
+<path d="M110 1045V1480Q110 1490 120 1490H395Q405 1490 405 1500V1550" fill="none" stroke="white" stroke-width="7"/><path class="edge spread" data-from="4" data-to="6" d="M110 1045V1480Q110 1490 120 1490H395Q405 1490 405 1500V1550"/>
+<path d="M515 1435V1550" fill="none" stroke="white" stroke-width="7"/><path class="edge retained" data-from="5" data-to="6" d="M515 1435V1550"/>
+<g class="edge-label"><rect x="541.0" y="529.0" width="218" height="52"/>
+<text x="650" y="551">Cell-mask area from labels</text>
+<text x="650" y="569">and pixel calibration</text>
+</g>
+<g class="edge-label"><rect x="796" y="790" width="158" height="70"/><text x="875" y="812">Original quantitative</text><text x="875" y="830">images and original</text><text x="875" y="848">cell masks</text></g>
+<g class="edge-label"><rect x="136.0" y="411.0" width="248" height="52"/>
+<text x="260" y="433">Marker-specific cutoff + operator</text>
+<text x="260" y="451">define hot pixels</text>
+</g>
+<g class="edge-label"><rect x="50.0" y="726.0" width="270" height="52"/>
+<text x="185" y="748">Selected hot-pixel aggregate</text>
+<text x="185" y="766">and surrounding marker signal</text>
+</g>
+<g class="edge-label"><rect x="375.0" y="934.0" width="270" height="52"/>
+<text x="510" y="956">Per-cell counts, cross-marker</text>
+<text x="510" y="974">counts and cell-mask distances</text>
+</g>
+<g class="edge-label"><rect x="670.0" y="1103.0" width="150" height="34"/>
+<text x="745" y="1125">Hot-pixel mask</text>
+</g>
+<g class="edge-label"><rect x="318" y="1093" width="184" height="70"/><text x="410" y="1115">Adopted noise spread</text><text x="410" y="1133">masks determine</text><text x="410" y="1151">cell-mask overlap</text></g>
+<g class="edge-label"><rect x="8.0" y="1273.0" width="230" height="34"/>
+<text x="123" y="1295">Adopted noise spread masks</text>
+</g>
+<g class="edge-label"><rect x="414.0" y="1450.0" width="202" height="34"/>
+<text x="515" y="1472">Retained cell identities</text>
+</g>
+<g class="step"><rect class="node" x="180" y="30" width="290" height="130" rx="17"/>
+<text class="heading" x="325.0" y="66.0">1 · Prepare the inputs</text>
+<text class="body" x="325.0" y="98.0">Quantitative marker images</text>
+<text class="body" x="325.0" y="118.0">Original cell masks · population labels</text>
+<text class="body" x="325.0" y="138.0">Pixel calibration</text>
+</g>
+<g class="step"><rect class="node" x="110" y="235" width="300" height="150" rx="17"/>
+<text class="heading" x="260.0" y="269.0">2 · For each marker channel,</text>
+<text class="heading" x="260.0" y="291.0">inspect cell masks and the</text>
+<text class="heading" x="260.0" y="313.0">pixel intensity bins</text>
+<text class="body" x="260.0" y="345.0">Record the hot-pixel cutoff</text>
+<text class="body" x="260.0" y="365.0">and comparison operator</text>
+</g>
+<g class="step"><rect class="node" x="110" y="490" width="300" height="190" rx="17"/>
+<text class="heading" x="260.0" y="526.0">3 · Inspect hot-pixel aggregates</text>
+<text class="body" x="260.0" y="558.0">Group hot pixels connected</text>
+<text class="body" x="260.0" y="578.0">by edge or corner contact</text>
+<text class="body" x="260.0" y="598.0">Count small-aggregate hot pixels</text>
+<text class="body" x="260.0" y="618.0">inside each original cell mask</text>
+<text class="body" x="260.0" y="638.0">Measure cell-mask distance</text>
+<text class="body" x="260.0" y="658.0">to large aggregates</text>
+</g>
+<g class="step"><rect class="node" x="35" y="825" width="300" height="220" rx="17"/>
+<text class="heading" x="185.0" y="885.0">4 · Predict and review</text>
+<text class="heading" x="185.0" y="907.0">noise spread masks</text>
+<text class="body" x="185.0" y="939.0">Draw reference regions</text>
+<text class="body" x="185.0" y="959.0">Adjust the bright-pixel threshold</text>
+<text class="body" x="185.0" y="979.0">Inspect predicted noise spread masks</text>
+<text class="body" x="185.0" y="999.0">Adopt reviewed noise spread masks</text>
+</g>
+<g class="step"><rect class="node" x="360" y="1195" width="310" height="240" rx="17"/>
+<text class="heading" x="515.0" y="1225.0">5 · Determine which cells</text>
+<text class="heading" x="515.0" y="1247.0">to exclude</text>
+<text class="body" x="515.0" y="1279.0">Original cell-mask area</text>
+<text class="body" x="515.0" y="1299.0">Small-aggregate hot-pixel counts</text>
+<text class="body" x="515.0" y="1319.0">within original cell masks</text>
+<text class="body" x="515.0" y="1339.0">Number of marker channels</text>
+<text class="body" x="515.0" y="1359.0">exceeding that count limit</text>
+<text class="body" x="515.0" y="1379.0">Cell-mask distance to large aggregates</text>
+<text class="body" x="515.0" y="1399.0">Cell-mask overlap with</text>
+<text class="body" x="515.0" y="1419.0">adopted noise spread masks</text>
+</g>
+<g class="step"><rect class="node" x="360" y="1550" width="330" height="210" rx="17"/>
+<text class="heading" x="525.0" y="1585.0">6 · Recalculate marker intensity</text>
+<text class="heading" x="525.0" y="1607.0">for retained cells</text>
+<text class="body" x="525.0" y="1639.0">Within each original cell mask,</text>
+<text class="body" x="525.0" y="1659.0">exclude the union of hot pixels and</text>
+<text class="body" x="525.0" y="1679.0">adopted noise spread mask pixels</text>
+<text class="body" x="525.0" y="1699.0">Remaining intensity sum ÷</text>
+<text class="body" x="525.0" y="1719.0">remaining pixel count</text>
+<text class="body" x="525.0" y="1739.0">Compare distributions; save audit</text>
+</g>
+</svg>

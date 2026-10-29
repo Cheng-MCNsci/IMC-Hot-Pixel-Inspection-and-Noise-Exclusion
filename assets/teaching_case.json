@@ -1,0 +1,61 @@
+{
+  "roi": "N_1_02",
+  "mask_label": 685,
+  "marker_id": "p_Akt_S473",
+  "selection": "Highest original mean among selected N_1_02 cells; not a confirmed artifact label",
+  "original_mean": 1.67,
+  "original_max": 30.5,
+  "pixels": 75,
+  "bin_boundaries": [
+    1,
+    3,
+    5
+  ],
+  "illustrative_high_operator": ">",
+  "illustrative_high_threshold": 5,
+  "high_pixels": 5,
+  "high_area_percent": 6.666666666666667,
+  "high_signal_percent": 76.04790419161677,
+  "bins": [
+    {
+      "range": "I = 0",
+      "count": 49,
+      "sum": 0.0,
+      "area_percent": 65.33333333333333,
+      "contribution_to_mean": 0.0,
+      "signal_percent": 0.0
+    },
+    {
+      "range": "0 < I \u2264 1",
+      "count": 17,
+      "sum": 17.0,
+      "area_percent": 22.666666666666668,
+      "contribution_to_mean": 0.22666666666666666,
+      "signal_percent": 13.572854291417165
+    },
+    {
+      "range": "1 < I \u2264 3",
+      "count": 3,
+      "sum": 8.0,
+      "area_percent": 4.0,
+      "contribution_to_mean": 0.10666666666666667,
+      "signal_percent": 6.387225548902196
+    },
+    {
+      "range": "3 < I \u2264 5",
+      "count": 1,
+      "sum": 5.0,
+      "area_percent": 1.3333333333333333,
+      "contribution_to_mean": 0.06666666666666667,
+      "signal_percent": 3.992015968063872
+    },
+    {
+      "range": "I > 5",
+      "count": 5,
+      "sum": 95.25,
+      "area_percent": 6.666666666666667,
+      "contribution_to_mean": 1.27,
+      "signal_percent": 76.04790419161677
+    }
+  ]
+}

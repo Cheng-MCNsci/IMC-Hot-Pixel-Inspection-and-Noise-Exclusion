@@ -1,0 +1,32 @@
+[
+  {
+    "marker_id": "p_Tyr",
+    "roi": "N_1_02",
+    "hot_cutoff": 25,
+    "historical_bright_threshold": 7,
+    "tutorial_default_bright_threshold": 18.75,
+    "spread_pixels": 1002,
+    "below_hot_cutoff_pixels": 1002,
+    "below_hot_cutoff_percent": 100.0,
+    "median_spread_intensity": 2.0,
+    "minimum_spread_intensity": 0.0,
+    "maximum_spread_intensity": 21.25,
+    "display_max": 10,
+    "anchor": 725348
+  },
+  {
+    "marker_id": "p_Akt_S473",
+    "roi": "B_1_02",
+    "hot_cutoff": 5,
+    "historical_bright_threshold": 4,
+    "tutorial_default_bright_threshold": 3.75,
+    "spread_pixels": 649,
+    "below_hot_cutoff_pixels": 581,
+    "below_hot_cutoff_percent": 89.52234206471495,
+    "median_spread_intensity": 2.0,
+    "minimum_spread_intensity": 0.0,
+    "maximum_spread_intensity": 9.5,
+    "display_max": 5,
+    "anchor": 939887
+  }
+]
