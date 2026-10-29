@@ -1,0 +1,17 @@
+marker_id,marker,channel,channel_index,image_pattern,original_panel_index
+TrkA,TrkA,Ho165,0,,36
+p75NTR,p75NTR,Dy161,1,,32
+Ret,Ret,Yb171,2,,42
+p_Tyr,p-Tyr,Nd146,3,,17
+p_Akt_S473,p-Akt (S473),Nd142,4,,13
+p_Akt_T308,p-Akt (T308),Tm169,5,,40
+p_PLCg2,p-PLCg2,Nd144,6,,15
+p_S6,p-S6,Sm149,7,,20
+p_CREB,p-CREB,Yb176,8,,47
+p_NFkB,p-NFkB,Er166,9,,37
+p_ATM,p-ATM,Tb159,10,,30
+p_C_Jun,p-C-Jun,Dy162,11,,33
+c_Fos,c-Fos,Gd155,12,,26
+H3K9ac,H3K9ac,In115,13,,4
+cl_Casp3,cl. Casp3,Yb173,14,,44
+TH,TH (context),Dy163,15,,34

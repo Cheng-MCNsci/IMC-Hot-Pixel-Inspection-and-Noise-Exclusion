@@ -1,0 +1,9 @@
+{
+  "dataset_name": "Rat SCG IMC \u00b7 09082026 \u00b7 five-ROI teaching subset",
+  "rois": "rois.csv",
+  "channels": "channels.csv",
+  "cells": "cell_metadata.csv",
+  "context_marker_id": "TH",
+  "intensity_provenance": "Steinbock 0.16.3 extraction with HPF=50; no spillover correction or normalization. Selected quantitative channels preserved exactly. Teaching subset, not independent biological replicates.",
+  "mask_semantics": "User-validated whole-cell analysis regions with unchanged nuclear-origin labels. Original segmentation labels retained; neuronal assignments supplied separately."
+}

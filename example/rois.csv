@@ -1,0 +1,6 @@
+roi,image_path,mask_path,axes,pixel_size_x_um,pixel_size_y_um,condition,sample
+CoN_1_01,images/CoN_1_01.tif,masks/CoN_1_01.tif,CYX,1,1,CoN,09082026_well1
+nLnK_1_04,images/nLnK_1_04.tif,masks/nLnK_1_04.tif,CYX,1,1,nLnK,09082026_well1
+nLwK_1_03,images/nLwK_1_03.tif,masks/nLwK_1_03.tif,CYX,1,1,nLwK,09082026_well1
+N_1_02,images/N_1_02.tif,masks/N_1_02.tif,CYX,1,1,N,09082026_well1
+B_1_02,images/B_1_02.tif,masks/B_1_02.tif,CYX,1,1,B,09082026_well1
