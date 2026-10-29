@@ -1,0 +1,59 @@
+{
+  "aggregate": "p_Akt_S473::nLnK_1_04:aggregate-003",
+  "visual_observation": "Small hot core close to the left acquired-ROI edge with weaker nearby signal; no new mask adopted.",
+  "search_area_overlap": {
+    "60": {
+      "neurons_with_any_pixels_in_search_area": 16,
+      "retained_neurons": [
+        "nLnK_1_04:116",
+        "nLnK_1_04:120",
+        "nLnK_1_04:135",
+        "nLnK_1_04:145",
+        "nLnK_1_04:163",
+        "nLnK_1_04:186",
+        "nLnK_1_04:194",
+        "nLnK_1_04:224"
+      ],
+      "excluded_neurons": [
+        "nLnK_1_04:123",
+        "nLnK_1_04:133",
+        "nLnK_1_04:155",
+        "nLnK_1_04:168",
+        "nLnK_1_04:172",
+        "nLnK_1_04:181",
+        "nLnK_1_04:184",
+        "nLnK_1_04:313"
+      ]
+    },
+    "100": {
+      "neurons_with_any_pixels_in_search_area": 23,
+      "retained_neurons": [
+        "nLnK_1_04:116",
+        "nLnK_1_04:120",
+        "nLnK_1_04:125",
+        "nLnK_1_04:135",
+        "nLnK_1_04:145",
+        "nLnK_1_04:163",
+        "nLnK_1_04:171",
+        "nLnK_1_04:182",
+        "nLnK_1_04:186",
+        "nLnK_1_04:194",
+        "nLnK_1_04:224",
+        "nLnK_1_04:382"
+      ],
+      "excluded_neurons": [
+        "nLnK_1_04:123",
+        "nLnK_1_04:126",
+        "nLnK_1_04:133",
+        "nLnK_1_04:155",
+        "nLnK_1_04:168",
+        "nLnK_1_04:172",
+        "nLnK_1_04:181",
+        "nLnK_1_04:184",
+        "nLnK_1_04:191",
+        "nLnK_1_04:313",
+        "nLnK_1_04:365"
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "bright_threshold": 3.75,
+    "affected_retained_cells": [],
+    "would_exceed_20pct": []
+  },
+  {
+    "bright_threshold": 2,
+    "affected_retained_cells": [],
+    "would_exceed_20pct": []
+  }
+]

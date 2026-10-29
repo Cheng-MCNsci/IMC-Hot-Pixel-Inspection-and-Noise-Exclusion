@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "export_type": "imc-spread-backup",
+  "dataset_id": "imc-review-b590fe1c3ca7a4488b81ffcb",
+  "method_version": "drawn-reference-bright-gradient-tutorial-v1",
+  "bright_threshold_default_fraction": 0.75,
+  "exported_at": "2026-10-28T20:19:39.017001+00:00",
+  "cutoffs": {
+    "p_Akt_S473": {
+      "value": 5,
+      "operator": ">="
+    }
+  },
+  "reviews": {
+    "[\"p_Akt_S473\",\"nLnK_1_04\",5,\">=\",128021,\"8-connected-v1\"]": {
+      "marker_id": "p_Akt_S473",
+      "roi": "nLnK_1_04",
+      "cutoff": {
+        "value": 5,
+        "operator": ">="
+      },
+      "anchor": 128021,
+      "config": {
+        "brightThreshold": 3.75,
+        "width": 5,
+        "radius": 60,
+        "seedDistance": 10,
+        "consecutive": 2,
+        "minPixels": 15,
+        "minCoverage": 50,
+        "referenceMinPixels": 10,
+        "patchSize": 10,
+        "minimumPatches": 8,
+        "centralRange": 90,
+        "tolerance": 5,
+        "sectorCount": 16,
+        "rotation": 0
+      },
+      "polygons": [
+        [
+          [
+            40,
+            60
+          ],
+          [
+            100,
+            60
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            40,
+            100
+          ]
+        ]
+      ],
+      "manual_indices": [],
+      "decision": "unreviewed",
+      "notes": "Provisional reference drawn by ChatGPT after visual inspection, authorized by Yang Cheng. Not used in the frozen reconstruction. Compare bright 3.75 with 2 and inspect the candidate boundary before deciding.",
+      "updated_at": "2026-10-28T20:19:39.017001+00:00",
+      "display": {
+        "maximum": 3,
+        "context": 180,
+        "bins": [
+          1,
+          2,
+          5
+        ]
+      }
+    }
+  }
+}

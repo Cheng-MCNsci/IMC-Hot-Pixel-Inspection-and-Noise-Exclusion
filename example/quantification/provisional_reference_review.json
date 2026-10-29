@@ -1,0 +1,1149 @@
+{
+  "status": "provisional_not_adopted",
+  "created_by": "ChatGPT visual reference proposal, authorized by the user",
+  "marker_id": "p_Akt_S473",
+  "roi": "nLnK_1_04",
+  "anchor": 128021,
+  "core_indices": [
+    128021,
+    128022,
+    129020,
+    129021,
+    129022,
+    129023,
+    129024,
+    130019,
+    130020,
+    130021,
+    130022,
+    130023,
+    130024,
+    130025,
+    131019,
+    131020
+  ],
+  "reference_polygons": [
+    [
+      [
+        40,
+        60
+      ],
+      [
+        100,
+        60
+      ],
+      [
+        100,
+        100
+      ],
+      [
+        40,
+        100
+      ]
+    ]
+  ],
+  "reference_rationale": "Comparison tissue above/right of the deposit, away from the visible local plume and inside the acquired ROI. Includes local tissue/zero pixels; not an automatically proven clean region.",
+  "results": [
+    {
+      "bright_threshold": 3.75,
+      "config": {
+        "brightThreshold": 3.75,
+        "width": 5,
+        "radius": 60,
+        "seedDistance": 10,
+        "consecutive": 2,
+        "minPixels": 15,
+        "minCoverage": 50,
+        "referenceMinPixels": 10,
+        "patchSize": 10,
+        "minimumPatches": 8,
+        "centralRange": 90,
+        "tolerance": 5,
+        "sectorCount": 16,
+        "rotation": 0
+      },
+      "reference": {
+        "available": true,
+        "patch_size_um": 10,
+        "minimum_patches": 8,
+        "patches": [
+          {
+            "id": 49,
+            "n": 72,
+            "positive": 3,
+            "bright": 0,
+            "density": 4.166666666666667,
+            "bright_fraction": 0
+          },
+          {
+            "id": 50,
+            "n": 80,
+            "positive": 7,
+            "bright": 0,
+            "density": 8.75,
+            "bright_fraction": 0
+          },
+          {
+            "id": 51,
+            "n": 80,
+            "positive": 4,
+            "bright": 0,
+            "density": 5,
+            "bright_fraction": 0
+          },
+          {
+            "id": 52,
+            "n": 80,
+            "positive": 3,
+            "bright": 0,
+            "density": 3.75,
+            "bright_fraction": 0
+          },
+          {
+            "id": 53,
+            "n": 80,
+            "positive": 12,
+            "bright": 0,
+            "density": 15,
+            "bright_fraction": 0
+          },
+          {
+            "id": 54,
+            "n": 80,
+            "positive": 7,
+            "bright": 0,
+            "density": 8.75,
+            "bright_fraction": 0
+          },
+          {
+            "id": 68,
+            "n": 90,
+            "positive": 6,
+            "bright": 0,
+            "density": 6.666666666666667,
+            "bright_fraction": 0
+          },
+          {
+            "id": 69,
+            "n": 100,
+            "positive": 11,
+            "bright": 0,
+            "density": 11,
+            "bright_fraction": 0
+          },
+          {
+            "id": 70,
+            "n": 100,
+            "positive": 15,
+            "bright": 1,
+            "density": 15,
+            "bright_fraction": 1
+          },
+          {
+            "id": 71,
+            "n": 100,
+            "positive": 8,
+            "bright": 0,
+            "density": 8,
+            "bright_fraction": 0
+          },
+          {
+            "id": 72,
+            "n": 100,
+            "positive": 13,
+            "bright": 0,
+            "density": 13,
+            "bright_fraction": 0
+          },
+          {
+            "id": 73,
+            "n": 100,
+            "positive": 9,
+            "bright": 0,
+            "density": 9,
+            "bright_fraction": 0
+          },
+          {
+            "id": 74,
+            "n": 10,
+            "positive": 0,
+            "bright": 0,
+            "density": 0,
+            "bright_fraction": 0
+          },
+          {
+            "id": 87,
+            "n": 90,
+            "positive": 17,
+            "bright": 0,
+            "density": 18.88888888888889,
+            "bright_fraction": 0
+          },
+          {
+            "id": 88,
+            "n": 100,
+            "positive": 12,
+            "bright": 0,
+            "density": 12,
+            "bright_fraction": 0
+          },
+          {
+            "id": 89,
+            "n": 100,
+            "positive": 13,
+            "bright": 0,
+            "density": 13,
+            "bright_fraction": 0
+          },
+          {
+            "id": 90,
+            "n": 100,
+            "positive": 10,
+            "bright": 0,
+            "density": 10,
+            "bright_fraction": 0
+          },
+          {
+            "id": 91,
+            "n": 100,
+            "positive": 14,
+            "bright": 0,
+            "density": 14,
+            "bright_fraction": 0
+          },
+          {
+            "id": 92,
+            "n": 100,
+            "positive": 17,
+            "bright": 0,
+            "density": 17,
+            "bright_fraction": 0
+          },
+          {
+            "id": 93,
+            "n": 10,
+            "positive": 2,
+            "bright": 0,
+            "density": 20,
+            "bright_fraction": 0
+          },
+          {
+            "id": 106,
+            "n": 90,
+            "positive": 17,
+            "bright": 0,
+            "density": 18.88888888888889,
+            "bright_fraction": 0
+          },
+          {
+            "id": 107,
+            "n": 100,
+            "positive": 13,
+            "bright": 0,
+            "density": 13,
+            "bright_fraction": 0
+          },
+          {
+            "id": 108,
+            "n": 100,
+            "positive": 30,
+            "bright": 0,
+            "density": 30,
+            "bright_fraction": 0
+          },
+          {
+            "id": 109,
+            "n": 100,
+            "positive": 20,
+            "bright": 0,
+            "density": 20,
+            "bright_fraction": 0
+          },
+          {
+            "id": 110,
+            "n": 100,
+            "positive": 16,
+            "bright": 0,
+            "density": 16,
+            "bright_fraction": 0
+          },
+          {
+            "id": 111,
+            "n": 100,
+            "positive": 5,
+            "bright": 0,
+            "density": 5,
+            "bright_fraction": 0
+          },
+          {
+            "id": 112,
+            "n": 10,
+            "positive": 0,
+            "bright": 0,
+            "density": 0,
+            "bright_fraction": 0
+          },
+          {
+            "id": 125,
+            "n": 18,
+            "positive": 1,
+            "bright": 0,
+            "density": 5.555555555555555,
+            "bright_fraction": 0
+          },
+          {
+            "id": 126,
+            "n": 20,
+            "positive": 2,
+            "bright": 0,
+            "density": 10,
+            "bright_fraction": 0
+          },
+          {
+            "id": 127,
+            "n": 20,
+            "positive": 4,
+            "bright": 0,
+            "density": 20,
+            "bright_fraction": 0
+          },
+          {
+            "id": 128,
+            "n": 20,
+            "positive": 2,
+            "bright": 0,
+            "density": 10,
+            "bright_fraction": 0
+          },
+          {
+            "id": 129,
+            "n": 20,
+            "positive": 3,
+            "bright": 0,
+            "density": 15,
+            "bright_fraction": 0
+          },
+          {
+            "id": 130,
+            "n": 20,
+            "positive": 3,
+            "bright": 0,
+            "density": 15,
+            "bright_fraction": 0
+          }
+        ],
+        "pixel_count": 2390,
+        "ranges": {
+          "density": {
+            "low": 0,
+            "high": 25
+          },
+          "bright_fraction": {
+            "low": 0,
+            "high": 5
+          }
+        }
+      },
+      "directions": [
+        {
+          "sector": 0,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 1,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 2,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 3,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 4,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 5,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 6,
+          "status": "endpoint_found",
+          "endpoint_um": 5
+        },
+        {
+          "sector": 7,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 8,
+          "status": "endpoint_found",
+          "endpoint_um": 10
+        },
+        {
+          "sector": 9,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 10,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 11,
+          "status": "endpoint_found",
+          "endpoint_um": 10
+        },
+        {
+          "sector": 12,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 13,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 14,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 15,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        }
+      ],
+      "candidate_indices": [
+        130009,
+        130010,
+        130011,
+        130012,
+        130013,
+        130014,
+        130015,
+        130016,
+        130017,
+        130018,
+        131009,
+        131010,
+        131011,
+        131012,
+        131013,
+        131014,
+        131015,
+        131016,
+        131017,
+        131018,
+        131023,
+        132009,
+        132010,
+        132011,
+        132012,
+        132013,
+        132014,
+        132015,
+        132021,
+        132023,
+        132024,
+        133009,
+        133010,
+        133011,
+        133012,
+        133013,
+        133021,
+        133024,
+        133025,
+        134009,
+        134010,
+        134020,
+        134021,
+        134024,
+        134025,
+        134026,
+        135020,
+        135021,
+        135024,
+        135025,
+        135026,
+        135027,
+        136019,
+        136020,
+        136021,
+        137019,
+        137020,
+        137021,
+        138019,
+        138020,
+        138021,
+        139018,
+        139019,
+        139020,
+        139021,
+        140018,
+        140019,
+        140020,
+        140021,
+        141017,
+        141018,
+        141019,
+        141020,
+        141021
+      ],
+      "unresolved_indices": []
+    },
+    {
+      "bright_threshold": 2,
+      "config": {
+        "brightThreshold": 2,
+        "width": 5,
+        "radius": 60,
+        "seedDistance": 10,
+        "consecutive": 2,
+        "minPixels": 15,
+        "minCoverage": 50,
+        "referenceMinPixels": 10,
+        "patchSize": 10,
+        "minimumPatches": 8,
+        "centralRange": 90,
+        "tolerance": 5,
+        "sectorCount": 16,
+        "rotation": 0
+      },
+      "reference": {
+        "available": true,
+        "patch_size_um": 10,
+        "minimum_patches": 8,
+        "patches": [
+          {
+            "id": 49,
+            "n": 72,
+            "positive": 3,
+            "bright": 0,
+            "density": 4.166666666666667,
+            "bright_fraction": 0
+          },
+          {
+            "id": 50,
+            "n": 80,
+            "positive": 7,
+            "bright": 2,
+            "density": 8.75,
+            "bright_fraction": 2.5
+          },
+          {
+            "id": 51,
+            "n": 80,
+            "positive": 4,
+            "bright": 0,
+            "density": 5,
+            "bright_fraction": 0
+          },
+          {
+            "id": 52,
+            "n": 80,
+            "positive": 3,
+            "bright": 0,
+            "density": 3.75,
+            "bright_fraction": 0
+          },
+          {
+            "id": 53,
+            "n": 80,
+            "positive": 12,
+            "bright": 2,
+            "density": 15,
+            "bright_fraction": 2.5
+          },
+          {
+            "id": 54,
+            "n": 80,
+            "positive": 7,
+            "bright": 0,
+            "density": 8.75,
+            "bright_fraction": 0
+          },
+          {
+            "id": 68,
+            "n": 90,
+            "positive": 6,
+            "bright": 0,
+            "density": 6.666666666666667,
+            "bright_fraction": 0
+          },
+          {
+            "id": 69,
+            "n": 100,
+            "positive": 11,
+            "bright": 0,
+            "density": 11,
+            "bright_fraction": 0
+          },
+          {
+            "id": 70,
+            "n": 100,
+            "positive": 15,
+            "bright": 1,
+            "density": 15,
+            "bright_fraction": 1
+          },
+          {
+            "id": 71,
+            "n": 100,
+            "positive": 8,
+            "bright": 0,
+            "density": 8,
+            "bright_fraction": 0
+          },
+          {
+            "id": 72,
+            "n": 100,
+            "positive": 13,
+            "bright": 0,
+            "density": 13,
+            "bright_fraction": 0
+          },
+          {
+            "id": 73,
+            "n": 100,
+            "positive": 9,
+            "bright": 1,
+            "density": 9,
+            "bright_fraction": 1
+          },
+          {
+            "id": 74,
+            "n": 10,
+            "positive": 0,
+            "bright": 0,
+            "density": 0,
+            "bright_fraction": 0
+          },
+          {
+            "id": 87,
+            "n": 90,
+            "positive": 17,
+            "bright": 3,
+            "density": 18.88888888888889,
+            "bright_fraction": 3.3333333333333335
+          },
+          {
+            "id": 88,
+            "n": 100,
+            "positive": 12,
+            "bright": 1,
+            "density": 12,
+            "bright_fraction": 1
+          },
+          {
+            "id": 89,
+            "n": 100,
+            "positive": 13,
+            "bright": 1,
+            "density": 13,
+            "bright_fraction": 1
+          },
+          {
+            "id": 90,
+            "n": 100,
+            "positive": 10,
+            "bright": 2,
+            "density": 10,
+            "bright_fraction": 2
+          },
+          {
+            "id": 91,
+            "n": 100,
+            "positive": 14,
+            "bright": 0,
+            "density": 14,
+            "bright_fraction": 0
+          },
+          {
+            "id": 92,
+            "n": 100,
+            "positive": 17,
+            "bright": 1,
+            "density": 17,
+            "bright_fraction": 1
+          },
+          {
+            "id": 93,
+            "n": 10,
+            "positive": 2,
+            "bright": 0,
+            "density": 20,
+            "bright_fraction": 0
+          },
+          {
+            "id": 106,
+            "n": 90,
+            "positive": 17,
+            "bright": 1,
+            "density": 18.88888888888889,
+            "bright_fraction": 1.1111111111111112
+          },
+          {
+            "id": 107,
+            "n": 100,
+            "positive": 13,
+            "bright": 1,
+            "density": 13,
+            "bright_fraction": 1
+          },
+          {
+            "id": 108,
+            "n": 100,
+            "positive": 30,
+            "bright": 6,
+            "density": 30,
+            "bright_fraction": 6
+          },
+          {
+            "id": 109,
+            "n": 100,
+            "positive": 20,
+            "bright": 2,
+            "density": 20,
+            "bright_fraction": 2
+          },
+          {
+            "id": 110,
+            "n": 100,
+            "positive": 16,
+            "bright": 5,
+            "density": 16,
+            "bright_fraction": 5
+          },
+          {
+            "id": 111,
+            "n": 100,
+            "positive": 5,
+            "bright": 1,
+            "density": 5,
+            "bright_fraction": 1
+          },
+          {
+            "id": 112,
+            "n": 10,
+            "positive": 0,
+            "bright": 0,
+            "density": 0,
+            "bright_fraction": 0
+          },
+          {
+            "id": 125,
+            "n": 18,
+            "positive": 1,
+            "bright": 1,
+            "density": 5.555555555555555,
+            "bright_fraction": 5.555555555555555
+          },
+          {
+            "id": 126,
+            "n": 20,
+            "positive": 2,
+            "bright": 0,
+            "density": 10,
+            "bright_fraction": 0
+          },
+          {
+            "id": 127,
+            "n": 20,
+            "positive": 4,
+            "bright": 0,
+            "density": 20,
+            "bright_fraction": 0
+          },
+          {
+            "id": 128,
+            "n": 20,
+            "positive": 2,
+            "bright": 0,
+            "density": 10,
+            "bright_fraction": 0
+          },
+          {
+            "id": 129,
+            "n": 20,
+            "positive": 3,
+            "bright": 1,
+            "density": 15,
+            "bright_fraction": 5
+          },
+          {
+            "id": 130,
+            "n": 20,
+            "positive": 3,
+            "bright": 0,
+            "density": 15,
+            "bright_fraction": 0
+          }
+        ],
+        "pixel_count": 2390,
+        "ranges": {
+          "density": {
+            "low": 0,
+            "high": 25
+          },
+          "bright_fraction": {
+            "low": 0,
+            "high": 10.222222222222221
+          }
+        }
+      },
+      "directions": [
+        {
+          "sector": 0,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 1,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 2,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 3,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 4,
+          "status": "endpoint_found",
+          "endpoint_um": 10
+        },
+        {
+          "sector": 5,
+          "status": "endpoint_found",
+          "endpoint_um": 15
+        },
+        {
+          "sector": 6,
+          "status": "endpoint_found",
+          "endpoint_um": 10
+        },
+        {
+          "sector": 7,
+          "status": "endpoint_found",
+          "endpoint_um": 10
+        },
+        {
+          "sector": 8,
+          "status": "endpoint_found",
+          "endpoint_um": 10
+        },
+        {
+          "sector": 9,
+          "status": "endpoint_found",
+          "endpoint_um": 10
+        },
+        {
+          "sector": 10,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 11,
+          "status": "endpoint_found",
+          "endpoint_um": 10
+        },
+        {
+          "sector": 12,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 13,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 14,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        },
+        {
+          "sector": 15,
+          "status": "no_near_core_excess",
+          "endpoint_um": null
+        }
+      ],
+      "candidate_indices": [
+        130009,
+        130010,
+        130011,
+        130012,
+        130013,
+        130014,
+        130015,
+        130016,
+        130017,
+        130018,
+        130026,
+        130027,
+        130028,
+        130029,
+        130030,
+        130031,
+        130032,
+        130033,
+        130034,
+        130035,
+        131009,
+        131010,
+        131011,
+        131012,
+        131013,
+        131014,
+        131015,
+        131016,
+        131017,
+        131018,
+        131021,
+        131022,
+        131023,
+        131024,
+        131025,
+        131026,
+        131027,
+        131028,
+        131029,
+        131030,
+        131031,
+        131032,
+        131033,
+        131034,
+        131035,
+        132009,
+        132010,
+        132011,
+        132012,
+        132013,
+        132014,
+        132015,
+        132020,
+        132021,
+        132022,
+        132023,
+        132024,
+        132025,
+        132026,
+        132027,
+        132028,
+        132029,
+        132030,
+        132031,
+        132032,
+        132033,
+        132034,
+        132035,
+        133009,
+        133010,
+        133011,
+        133012,
+        133013,
+        133019,
+        133020,
+        133021,
+        133022,
+        133023,
+        133024,
+        133025,
+        133026,
+        133027,
+        133028,
+        133029,
+        133030,
+        133031,
+        133032,
+        133033,
+        133034,
+        133035,
+        134009,
+        134010,
+        134018,
+        134019,
+        134020,
+        134021,
+        134022,
+        134023,
+        134024,
+        134025,
+        134026,
+        134027,
+        134028,
+        134029,
+        134030,
+        134031,
+        134032,
+        134033,
+        134034,
+        135017,
+        135018,
+        135019,
+        135020,
+        135021,
+        135022,
+        135023,
+        135024,
+        135025,
+        135026,
+        135027,
+        135028,
+        135029,
+        135030,
+        135031,
+        135032,
+        135033,
+        135034,
+        136016,
+        136017,
+        136018,
+        136019,
+        136020,
+        136021,
+        136022,
+        136023,
+        136024,
+        136025,
+        136026,
+        136027,
+        136028,
+        136029,
+        136030,
+        136031,
+        136032,
+        136033,
+        136034,
+        136035,
+        136036,
+        136037,
+        137015,
+        137016,
+        137017,
+        137018,
+        137019,
+        137020,
+        137021,
+        137022,
+        137023,
+        137024,
+        137025,
+        137026,
+        137027,
+        137028,
+        137029,
+        137030,
+        137031,
+        137032,
+        137033,
+        137034,
+        137035,
+        137036,
+        137037,
+        137038,
+        137039,
+        138014,
+        138015,
+        138016,
+        138017,
+        138018,
+        138019,
+        138020,
+        138021,
+        138022,
+        138023,
+        138024,
+        138025,
+        138026,
+        138027,
+        138028,
+        138029,
+        138030,
+        138031,
+        138032,
+        138033,
+        138034,
+        138035,
+        138036,
+        138037,
+        138038,
+        139013,
+        139014,
+        139015,
+        139016,
+        139017,
+        139018,
+        139019,
+        139020,
+        139021,
+        139022,
+        139023,
+        139024,
+        139025,
+        139026,
+        139027,
+        139028,
+        139029,
+        139030,
+        139032,
+        139033,
+        139034,
+        139035,
+        139036,
+        139037,
+        140014,
+        140015,
+        140016,
+        140017,
+        140018,
+        140019,
+        140020,
+        140021,
+        140022,
+        140023,
+        140024,
+        140025,
+        140026,
+        140027,
+        140028,
+        140033,
+        140034,
+        140035,
+        140036,
+        140037,
+        141016,
+        141017,
+        141018,
+        141019,
+        141020,
+        141021,
+        141022,
+        141023,
+        141034,
+        141035,
+        141036,
+        142035
+      ],
+      "unresolved_indices": []
+    }
+  ]
+}

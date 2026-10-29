@@ -1,0 +1,2109 @@
+{
+  "snapshot_files": [
+    {
+      "roi": "CoN_1_01",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/CoN_1_01.json",
+      "sha256": "945d786a891bae84e1005f6b72607ba7e176e05e92fdc3b782b2446e5041d228"
+    },
+    {
+      "roi": "CoN_1_01",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/CoN_1_01.json",
+      "sha256": "2b57274499dd53db835eb6a0d5cc7d05f15065a36771ad117042d757f95ba0f1"
+    },
+    {
+      "roi": "CoN_1_01",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/CoN_1_01.json",
+      "sha256": "58e859d31251c0411dd9e66f03a4b8bd628caca431564516d6dae3c5c849d940"
+    },
+    {
+      "roi": "CoN_1_01",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/CoN_1_01.json",
+      "sha256": "d5eb4603b7c02dbda1bac67738470f2b68a07bee9f30c5fa000766b384273eef"
+    },
+    {
+      "roi": "CoN_1_01",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/CoN_1_01.json",
+      "sha256": "1af89831401128c82329f871d38e96ddba56893333eee89bf0ca0969b8b62b49"
+    },
+    {
+      "roi": "CoN_1_01",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/CoN_1_01.json",
+      "sha256": "37e5be363168c065e897058dd781e44efac30d739a6c0bab52684b7994f76197"
+    },
+    {
+      "roi": "CoN_1_01",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/CoN_1_01.json",
+      "sha256": "fc3e5b77dd26b24570f8e029fb90af00f859ea9362a6b70d48a59040c7b89a9a"
+    },
+    {
+      "roi": "CoN_1_01",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/CoN_1_01.json",
+      "sha256": "46b602f0d40ad2a34fd9de843549f1ca1736fc5e5a3abf9a011fb2b42c492933"
+    },
+    {
+      "roi": "CoN_1_01",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/CoN_1_01.json",
+      "sha256": "5129b557c41d38618d4ce82f41cdfffa65d324749aba52f5d87eea011f64ea06"
+    },
+    {
+      "roi": "CoN_1_01",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/CoN_1_01.json",
+      "sha256": "99ee36c2cc5913c8b2ee4b1c84396a2d2ed29952b43dfcb0e13c12a3870f1884"
+    },
+    {
+      "roi": "CoN_1_01",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/CoN_1_01.json",
+      "sha256": "493d2f95649ee8c9bb2e474b89bc5d08af837e2b818a0179e4d269c2c99e2c3b"
+    },
+    {
+      "roi": "CoN_1_01",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/CoN_1_01.json",
+      "sha256": "55083aa4a43750bb06e2a6f1821b76e1a6107f94886fcf2f3a5b87b0dd32fa99"
+    },
+    {
+      "roi": "CoN_1_01",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/CoN_1_01.json",
+      "sha256": "a278caa0b3a16b79f49bceb2690c410b9ad6375d80b4f2f64b91184251ea0840"
+    },
+    {
+      "roi": "CoN_1_01",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/CoN_1_01.json",
+      "sha256": "28bc8c812b5383791958348ff6a8321ba7ee11e7c91f5a6036267fc333af824e"
+    },
+    {
+      "roi": "CoN_1_02",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/CoN_1_02.json",
+      "sha256": "8ce734739bceb2f168d9b5ab783555e95b0fbdba98e5d22dcbd0060ef3a53029"
+    },
+    {
+      "roi": "CoN_1_02",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/CoN_1_02.json",
+      "sha256": "4b00967d6cbf37d0ca6fccfad37669a68b39e2d8987a1f9187f200af098aef4b"
+    },
+    {
+      "roi": "CoN_1_02",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/CoN_1_02.json",
+      "sha256": "ec10cfce0d748392983da0596f3175be6e182be7745b5ec1990efad227ab2bdb"
+    },
+    {
+      "roi": "CoN_1_02",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/CoN_1_02.json",
+      "sha256": "e4c0b8afd9ab75b299b1d678cd65c36b4e72f11d5c4509e9909526cb36e84d63"
+    },
+    {
+      "roi": "CoN_1_02",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/CoN_1_02.json",
+      "sha256": "2e32591b7adfe1460784b58db3c0d610962727e43b9f67974fed81f3b22a4487"
+    },
+    {
+      "roi": "CoN_1_02",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/CoN_1_02.json",
+      "sha256": "defcf07e1713077a70d3eb7f77e5f123dd86a40da5970a6d9eadd119e814dd6b"
+    },
+    {
+      "roi": "CoN_1_02",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/CoN_1_02.json",
+      "sha256": "b10e3975198043ed30d04dd66c5afdda53910d55c30d2b416994db6f9fdef297"
+    },
+    {
+      "roi": "CoN_1_02",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/CoN_1_02.json",
+      "sha256": "9cfb3cd31dd494989acdd5a39630aba02f9a938146986d4fb7de485a8ea3c2ee"
+    },
+    {
+      "roi": "CoN_1_02",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/CoN_1_02.json",
+      "sha256": "9e85b49c4cc4f89e66ba13ab1eff0e348a1ae099a94971aa4476092432428fd6"
+    },
+    {
+      "roi": "CoN_1_02",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/CoN_1_02.json",
+      "sha256": "0d3ba7c7e8198d5ee997f910f843d56340115195773870f073c968eedb615177"
+    },
+    {
+      "roi": "CoN_1_02",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/CoN_1_02.json",
+      "sha256": "8a90712da683c00a663630bd0aef01c332de3887837e7329146d0893bde5f757"
+    },
+    {
+      "roi": "CoN_1_02",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/CoN_1_02.json",
+      "sha256": "b56cdd1378bf49b83b9ff1952dd7b53f8a1777326971e4331fcbbae38e2dfae7"
+    },
+    {
+      "roi": "CoN_1_02",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/CoN_1_02.json",
+      "sha256": "638bb630c6c9e582e422c04cb98a481eb7c90bccc838c257027c8fc3734e2fdd"
+    },
+    {
+      "roi": "CoN_1_02",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/CoN_1_02.json",
+      "sha256": "b229120c7251cb8cb7d2f53c443b533466bfcca6831503e832ec3c5b10862057"
+    },
+    {
+      "roi": "CoN_1_03",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/CoN_1_03.json",
+      "sha256": "f78c95a205b9ab3a15388879cc05caafdb4aaad4db8c4777cf0f9d6e42cfdfc4"
+    },
+    {
+      "roi": "CoN_1_03",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/CoN_1_03.json",
+      "sha256": "5251f3356e8ad88387eaf9feee5e4652ea432fe4eacb62997212388e3b3c342c"
+    },
+    {
+      "roi": "CoN_1_03",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/CoN_1_03.json",
+      "sha256": "641e7e7d057587d5e2f804ca3b0f5cc97b0dbeaf65c4596a0718ae0e2859801a"
+    },
+    {
+      "roi": "CoN_1_03",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/CoN_1_03.json",
+      "sha256": "fa18c3aa361f6f8eca12d5ab4a00a235b081588baf379b8b86146358311e11c4"
+    },
+    {
+      "roi": "CoN_1_03",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/CoN_1_03.json",
+      "sha256": "9cc771f53acb87e4245e19529ef1dfa9f08359c78cbf56f003994faea386add5"
+    },
+    {
+      "roi": "CoN_1_03",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/CoN_1_03.json",
+      "sha256": "7618bec8d62573bb05a82dda92672039c6d8ad308b40c5126010d37819fb952b"
+    },
+    {
+      "roi": "CoN_1_03",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/CoN_1_03.json",
+      "sha256": "ca9b40f5af932f467da4bd6f70679fbcaf8b6474590835cc95088eb244d95094"
+    },
+    {
+      "roi": "CoN_1_03",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/CoN_1_03.json",
+      "sha256": "45ea83f6d35c77549b9ef492cc8733e3c2d3a93a70b6898ccef5e4329879a6be"
+    },
+    {
+      "roi": "CoN_1_03",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/CoN_1_03.json",
+      "sha256": "b95fc57dae639173fbebe3e4284dd0cf673629b13f9f97936ebde2a1deae2b9c"
+    },
+    {
+      "roi": "CoN_1_03",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/CoN_1_03.json",
+      "sha256": "efe29831ae7e12f36306b83fd59256ed8f5775edd3833870dfc8d40d02ea7803"
+    },
+    {
+      "roi": "CoN_1_03",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/CoN_1_03.json",
+      "sha256": "4ad97b0c2724fa1f48cbc41c6ba08d9b25ff0f065329ff4352fe71434ffed06b"
+    },
+    {
+      "roi": "CoN_1_03",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/CoN_1_03.json",
+      "sha256": "73fa0b3199d4e21019f1ab345e8fb30c4a41cbc626da67b45d07ec71deb61c34"
+    },
+    {
+      "roi": "CoN_1_03",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/CoN_1_03.json",
+      "sha256": "7d806675a0c0a605c3e856b5ca679b87b33d8b082154b46d772f1b13c29e9ae7"
+    },
+    {
+      "roi": "CoN_1_03",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/CoN_1_03.json",
+      "sha256": "22cc2937aa560beeab51d8fa2411e3c288682798c3de3182918286330a821915"
+    },
+    {
+      "roi": "CoN_1_04",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/CoN_1_04.json",
+      "sha256": "b9793c1677694557eb41740f34a366e842b652e51305ba6891869155ded69ce9"
+    },
+    {
+      "roi": "CoN_1_04",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/CoN_1_04.json",
+      "sha256": "62d1b3ae7f21c9d020867cc677644afab7175fc24d83146f37f01e43f6098855"
+    },
+    {
+      "roi": "CoN_1_04",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/CoN_1_04.json",
+      "sha256": "7a36aee778a8f55c9429da52780f40d546c15b85d1219b9ec9809249cddfc3f7"
+    },
+    {
+      "roi": "CoN_1_04",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/CoN_1_04.json",
+      "sha256": "3609d2a524d5c1d6e1a1868107eb17de6e80ea88728af17c816359780ec37361"
+    },
+    {
+      "roi": "CoN_1_04",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/CoN_1_04.json",
+      "sha256": "4c198bc55733378209ef19f1b72a3665d5b93750b4a04d98faa51eab887edfe6"
+    },
+    {
+      "roi": "CoN_1_04",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/CoN_1_04.json",
+      "sha256": "60532fc27494ed20612b9c368a933e4fbb0ad9e99a662bced7e00863a552bb45"
+    },
+    {
+      "roi": "CoN_1_04",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/CoN_1_04.json",
+      "sha256": "240b75238d87b15ce38d7e7d898f8270a96b9988c69ded0252004a72ebe24814"
+    },
+    {
+      "roi": "CoN_1_04",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/CoN_1_04.json",
+      "sha256": "6973b3aaf2cca29c2c7e73aa9fbbe7babc24bbd0e4ace12976907d0179b2c00e"
+    },
+    {
+      "roi": "CoN_1_04",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/CoN_1_04.json",
+      "sha256": "50c1b20e73b63954f67edfc42437a6566c16abff08fb64ac2f3ce435a01bdfb7"
+    },
+    {
+      "roi": "CoN_1_04",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/CoN_1_04.json",
+      "sha256": "586ffcf69490aed5a315ea853f5fde6e5213a3ef8a5f244e8943a0575e99e055"
+    },
+    {
+      "roi": "CoN_1_04",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/CoN_1_04.json",
+      "sha256": "f552325f75af1837125e5a7937cb62cc68570451155f8a2bbe2c0aaf9c724654"
+    },
+    {
+      "roi": "CoN_1_04",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/CoN_1_04.json",
+      "sha256": "7a3c971d34d577cd784fc9859ae6289cf7b8c48ca65e1fe965c453cff60f6515"
+    },
+    {
+      "roi": "CoN_1_04",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/CoN_1_04.json",
+      "sha256": "a9c6cf5a4061dc8e27ce61e64e8d93152fc8ba1a2d916027255d7e4fa0b43d6d"
+    },
+    {
+      "roi": "CoN_1_04",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/CoN_1_04.json",
+      "sha256": "118f34a4f2bdc81bad959be1a900d8b8da02daa84115023b50a1b349ff7874bb"
+    },
+    {
+      "roi": "CoN_1_05",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/CoN_1_05.json",
+      "sha256": "5bf3f6fed7b180f833de110ad01e09b9097fec8c60819a06a055886073159605"
+    },
+    {
+      "roi": "CoN_1_05",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/CoN_1_05.json",
+      "sha256": "aa6139709f16622f137e0d6991efe050e3b945fb6dd8b91ff63948f94bc1f3ac"
+    },
+    {
+      "roi": "CoN_1_05",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/CoN_1_05.json",
+      "sha256": "c4e74118f10ed6b59d2c69c171806a8b652d0e183d50f36c94e63e8bd15ced2c"
+    },
+    {
+      "roi": "CoN_1_05",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/CoN_1_05.json",
+      "sha256": "5aac84139ccb378bb64c118d11c7bac67856836590e22c48e6484511b85ab493"
+    },
+    {
+      "roi": "CoN_1_05",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/CoN_1_05.json",
+      "sha256": "4793ea94fa2fdf5a1922867432d0ab46144378d1bb09329854f0aa7e711ad56e"
+    },
+    {
+      "roi": "CoN_1_05",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/CoN_1_05.json",
+      "sha256": "b9abf36a9819dde8aa0952fc33a3de5c16563e8acc98bcbd1c6d0a85d54fb35d"
+    },
+    {
+      "roi": "CoN_1_05",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/CoN_1_05.json",
+      "sha256": "df3a34a20e9cff400b4819565fd858617225ec5058fb596f2a204cc7eb19b34c"
+    },
+    {
+      "roi": "CoN_1_05",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/CoN_1_05.json",
+      "sha256": "fbd74486ec6b80074df8cc2802819f55149a85732b1f8c6ce519193d264beb66"
+    },
+    {
+      "roi": "CoN_1_05",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/CoN_1_05.json",
+      "sha256": "fa2232452c11d90d799e259994d9b16fc4c67097c52a0389ed266ad40bf0532d"
+    },
+    {
+      "roi": "CoN_1_05",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/CoN_1_05.json",
+      "sha256": "0f8d5ec508fd0b9a306b790221df3ed838445faa9586daceda71c778f96272e4"
+    },
+    {
+      "roi": "CoN_1_05",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/CoN_1_05.json",
+      "sha256": "1c7b771bc3a2e74b14c46e0e231cbc910b369dd0935b539b11c15e3843318d3c"
+    },
+    {
+      "roi": "CoN_1_05",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/CoN_1_05.json",
+      "sha256": "a8d28826ee80d1b009ac616a6e783f7ff5c21386791425dfb94d96f571260167"
+    },
+    {
+      "roi": "CoN_1_05",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/CoN_1_05.json",
+      "sha256": "bb8ce532ca0b7cbc2cf46d7c46dab758a0817d2e79afe96c9ec96d8e14817a33"
+    },
+    {
+      "roi": "CoN_1_05",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/CoN_1_05.json",
+      "sha256": "8b2cdd895a1fd25e02f8cafee1ca56409122a9cd4755a2cfccea91792ed130a2"
+    },
+    {
+      "roi": "nLnK_1_01",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/nLnK_1_01.json",
+      "sha256": "71813e42751737a741fe129e2a1a985f2d4431c00b5fb9e8904eac05ceaa1b14"
+    },
+    {
+      "roi": "nLnK_1_01",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/nLnK_1_01.json",
+      "sha256": "a81b4042235139ba007de2f21157f60fab52a40a0f2be1342a99eb604d368a6a"
+    },
+    {
+      "roi": "nLnK_1_01",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/nLnK_1_01.json",
+      "sha256": "21408b729094e15fb2ff81a3973055d10359e7a39f754d363c09030d9cac535f"
+    },
+    {
+      "roi": "nLnK_1_01",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/nLnK_1_01.json",
+      "sha256": "bf48acde80148816fa6a0f98de1d4ba9b233bdc76be17e7f7058abf1f6808d07"
+    },
+    {
+      "roi": "nLnK_1_01",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/nLnK_1_01.json",
+      "sha256": "4ba380c10a78e5539034fd33dae2b975d698b3ddfefaf069b012be9443dc7484"
+    },
+    {
+      "roi": "nLnK_1_01",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/nLnK_1_01.json",
+      "sha256": "b2f017ea3eb87aba265d0c84f170fea750c5acded637ec375e0238b4ff6527f0"
+    },
+    {
+      "roi": "nLnK_1_01",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/nLnK_1_01.json",
+      "sha256": "ecb920c65797357f1d0bf724acd6807d5b7f4387dc7e3850a694bcd4e86aff3e"
+    },
+    {
+      "roi": "nLnK_1_01",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/nLnK_1_01.json",
+      "sha256": "48962127d3364918b7d2963cbb759727f128d9dc3af5d9c0867a4b6a51661704"
+    },
+    {
+      "roi": "nLnK_1_01",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/nLnK_1_01.json",
+      "sha256": "463eedd297a40e47d807e8c5503d62a1cc47dbc7508d2dca2ac31cc01c5f3b92"
+    },
+    {
+      "roi": "nLnK_1_01",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/nLnK_1_01.json",
+      "sha256": "4cc9420f5451faac65157c0c74664737f4e36465cd3989503c8bb0a778ae8a72"
+    },
+    {
+      "roi": "nLnK_1_01",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/nLnK_1_01.json",
+      "sha256": "67ca28e96c134f881a8e9537b5e2339c14c1848e8c1c28a39824968d697462ef"
+    },
+    {
+      "roi": "nLnK_1_01",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/nLnK_1_01.json",
+      "sha256": "aee90099ffa1ea3e84813603fc51a41ba81942dfd9ee9898cf2c3244bcc8003b"
+    },
+    {
+      "roi": "nLnK_1_01",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/nLnK_1_01.json",
+      "sha256": "ddf073aef725876a64eaf5cd05c6cc27620f9d81b04b3541d57775e5eef0ae5d"
+    },
+    {
+      "roi": "nLnK_1_01",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/nLnK_1_01.json",
+      "sha256": "4e97a24c138769dc3124193ad818f7b54670f46f754ec166eac82b6da671ac5a"
+    },
+    {
+      "roi": "nLnK_1_02",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/nLnK_1_02.json",
+      "sha256": "7136af786773f4ca1d4c289ccd687cd23155e311ccc0f17cddf77d180d9ccf29"
+    },
+    {
+      "roi": "nLnK_1_02",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/nLnK_1_02.json",
+      "sha256": "32e8a98b0d77e7de1d5e363cda877f7e5fbdb907747dbaa8c6f7298accedda6d"
+    },
+    {
+      "roi": "nLnK_1_02",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/nLnK_1_02.json",
+      "sha256": "829600d03e08a2f49798caebf089e8d214d13f17f0b546205b609bdf0fede7d0"
+    },
+    {
+      "roi": "nLnK_1_02",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/nLnK_1_02.json",
+      "sha256": "13f1b6016f92c9d516f90baa7c599563c996d6cff81d78bf5de95121c0aa62c7"
+    },
+    {
+      "roi": "nLnK_1_02",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/nLnK_1_02.json",
+      "sha256": "5e9b1cd78db1625002bd1954d64aa45952d7b2a3a12323a8ad0c0e074b17d586"
+    },
+    {
+      "roi": "nLnK_1_02",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/nLnK_1_02.json",
+      "sha256": "51a98160177e1e39093d37448f0c65281a163503909eeaad604ea6bdca472251"
+    },
+    {
+      "roi": "nLnK_1_02",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/nLnK_1_02.json",
+      "sha256": "04422507f57f6083a710a367acdb35bf45cf3f1e75b2d23ff4d010f501e70963"
+    },
+    {
+      "roi": "nLnK_1_02",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/nLnK_1_02.json",
+      "sha256": "ae097c26e3c564a097df8387fb37477de897e79ca691ebc109fd8621bdf067f8"
+    },
+    {
+      "roi": "nLnK_1_02",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/nLnK_1_02.json",
+      "sha256": "1dc23a785a28ebe0a906d3d43a3d7b2c0704eb4b8782c4e923de155e0ecef20f"
+    },
+    {
+      "roi": "nLnK_1_02",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/nLnK_1_02.json",
+      "sha256": "02894b08103117e3660130864d00a71834a567a46331335f2d0d604916d6bccf"
+    },
+    {
+      "roi": "nLnK_1_02",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/nLnK_1_02.json",
+      "sha256": "bb718a95475d5cc84177dbb5e8f24fe48283c5ebe7e63bed6a2a8645d17a7a54"
+    },
+    {
+      "roi": "nLnK_1_02",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/nLnK_1_02.json",
+      "sha256": "e63332602ff81dca36a75475297f075cab3ebb6d305a5c302dafc81325c5da72"
+    },
+    {
+      "roi": "nLnK_1_02",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/nLnK_1_02.json",
+      "sha256": "1f739b5433159115039a03e99861ade3eb8cb8c900cea22891efa8fc12797539"
+    },
+    {
+      "roi": "nLnK_1_02",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/nLnK_1_02.json",
+      "sha256": "e0d84696232577e779d893bf383119872408929e980d05c774b6596700f5828b"
+    },
+    {
+      "roi": "nLnK_1_03",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/nLnK_1_03.json",
+      "sha256": "9879758ca3d09ff5f9cf4c42d89a920b80246d4d1112b1f10cc22e2405391102"
+    },
+    {
+      "roi": "nLnK_1_03",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/nLnK_1_03.json",
+      "sha256": "6a28787ab556cfece6239fb6ebc53e4d54525ec2629b1093af1c90b7be2772bb"
+    },
+    {
+      "roi": "nLnK_1_03",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/nLnK_1_03.json",
+      "sha256": "cc21ce438f79d02b58dbdcb16ca56278e0d69ae90afbf67d4cc7e4785994f6fd"
+    },
+    {
+      "roi": "nLnK_1_03",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/nLnK_1_03.json",
+      "sha256": "f1f6f60c8e483ef420cb09e42aac63396f36a0a54ddcb6c2060218ffc9148ea0"
+    },
+    {
+      "roi": "nLnK_1_03",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/nLnK_1_03.json",
+      "sha256": "1f75ae9b4c211a793ceae4205b10192b452d7488e70f6c3266332c0cd6e940f4"
+    },
+    {
+      "roi": "nLnK_1_03",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/nLnK_1_03.json",
+      "sha256": "22186d278fd292c76b867c5720533bebbd977bd6a9786ff6e40a255175ed5dec"
+    },
+    {
+      "roi": "nLnK_1_03",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/nLnK_1_03.json",
+      "sha256": "5b92de6a5a27f95a118f07f7fdd2663e6d0ac022fa6d6bedf482bed5585f6790"
+    },
+    {
+      "roi": "nLnK_1_03",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/nLnK_1_03.json",
+      "sha256": "7828d8e9665082a8a102ac341d498f8f772e34b87e92719845c9379bfe83d090"
+    },
+    {
+      "roi": "nLnK_1_03",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/nLnK_1_03.json",
+      "sha256": "a8702c077148db2a4becd6d8aa3cd08142eeae96766237508aeb0580f327a576"
+    },
+    {
+      "roi": "nLnK_1_03",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/nLnK_1_03.json",
+      "sha256": "d2c800df24557dae8abed93a3c927bad06736388ebb9250b4cedb7dc7c44da3b"
+    },
+    {
+      "roi": "nLnK_1_03",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/nLnK_1_03.json",
+      "sha256": "2196f4c58cc4beef822d839ab44a1df0a4b7f9fccb16e2669bc44eb5c3c9c928"
+    },
+    {
+      "roi": "nLnK_1_03",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/nLnK_1_03.json",
+      "sha256": "ba2f0faa835e830689fa54d7787665984dbc4ab56bf7778f55a4e0814b317022"
+    },
+    {
+      "roi": "nLnK_1_03",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/nLnK_1_03.json",
+      "sha256": "c94e101db8f8814f3845f37d6cc75a5d494eb4bdc6f10065d7135cb40a2baabe"
+    },
+    {
+      "roi": "nLnK_1_03",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/nLnK_1_03.json",
+      "sha256": "34b3e2043f5fd190e97ef0a3308085cf337286b47df6f27e6d425271555233cc"
+    },
+    {
+      "roi": "nLnK_1_04",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/nLnK_1_04.json",
+      "sha256": "adafe95089dd30f0dc8fc42cd97944a189431d7d40281398fa5bf357a8629235"
+    },
+    {
+      "roi": "nLnK_1_04",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/nLnK_1_04.json",
+      "sha256": "59b09e2b4d5bcfd53b1ec1668d3703057046634c8af5bc3680e8753f412c69c1"
+    },
+    {
+      "roi": "nLnK_1_04",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/nLnK_1_04.json",
+      "sha256": "e9aeab87af113a290822129de3f154a4af1ae732ec1df56503d18e50ab7fb956"
+    },
+    {
+      "roi": "nLnK_1_04",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/nLnK_1_04.json",
+      "sha256": "26b5977bbecb8fcaeb022e2191f25a69a7fc6909089e2acc9c9837f1c4f4b6b7"
+    },
+    {
+      "roi": "nLnK_1_04",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/nLnK_1_04.json",
+      "sha256": "2405f8efced80bfca1a55db2c0f751aa9d89d2a7c3f946eb1b5bec84349944c1"
+    },
+    {
+      "roi": "nLnK_1_04",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/nLnK_1_04.json",
+      "sha256": "7981879073a7824996b2774f9d1398ed3bb1beb8d990d87ef5f8867c573bd078"
+    },
+    {
+      "roi": "nLnK_1_04",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/nLnK_1_04.json",
+      "sha256": "2a848693e607a9d03b9188d0e6ea3735d9287b06b6d061edb60ccdb1b46c8958"
+    },
+    {
+      "roi": "nLnK_1_04",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/nLnK_1_04.json",
+      "sha256": "1cd520a029db1b782c51be94f61b263ef94f01eac749f6ddcad3e3b648a76f70"
+    },
+    {
+      "roi": "nLnK_1_04",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/nLnK_1_04.json",
+      "sha256": "e0d5e566ba0e8714cc9a00555084b73f3902069ce952bbef30c88c82fccdb9b6"
+    },
+    {
+      "roi": "nLnK_1_04",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/nLnK_1_04.json",
+      "sha256": "b8e8297555700458ef19487d309c321c6cd1d0a0a3acf5514eb613ebb9e573e4"
+    },
+    {
+      "roi": "nLnK_1_04",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/nLnK_1_04.json",
+      "sha256": "1e2f14e7ce53ca3e302cd952b10d396788be4abd45cfac83b915396079dd5b05"
+    },
+    {
+      "roi": "nLnK_1_04",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/nLnK_1_04.json",
+      "sha256": "61fe5a8c0bc1be0bed73cdf1b669b00a4fe9739a2147df0d0d824d8e68c6a2aa"
+    },
+    {
+      "roi": "nLnK_1_04",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/nLnK_1_04.json",
+      "sha256": "6781141307a8583e74f5d8e1e25cd781a753bbbe4cdff14624cb97d7fdcbbc86"
+    },
+    {
+      "roi": "nLnK_1_04",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/nLnK_1_04.json",
+      "sha256": "57255df807f374b596eeb470d830626dd64c810218299dff83192ad5cb826a28"
+    },
+    {
+      "roi": "nLnK_1_05",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/nLnK_1_05.json",
+      "sha256": "c82a3ef0eb4e283057f76e626649cda1a96f9bf0a4670af11f2f7bc7caa64cd3"
+    },
+    {
+      "roi": "nLnK_1_05",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/nLnK_1_05.json",
+      "sha256": "f5421d07e32a2eb24fd183c1874b4c4b14edfa12f3acff5488250b6bc5b43f0b"
+    },
+    {
+      "roi": "nLnK_1_05",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/nLnK_1_05.json",
+      "sha256": "3fe28d557fc5276eb2903598d3704808d22f748fb16f0744d591660dadf46d91"
+    },
+    {
+      "roi": "nLnK_1_05",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/nLnK_1_05.json",
+      "sha256": "acd01f1741ccea719b0e7a46ceef3c5ad6b341adad84b9d34e3c947c96b75941"
+    },
+    {
+      "roi": "nLnK_1_05",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/nLnK_1_05.json",
+      "sha256": "21b5e739f18edfa480663c25d62d0f17de2400b2ce4f9a102b30190903cc0ae8"
+    },
+    {
+      "roi": "nLnK_1_05",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/nLnK_1_05.json",
+      "sha256": "d1f6de0ed3a9b81fd8034e9f9d49715dc7a45797b638191b940bb7117946c1c5"
+    },
+    {
+      "roi": "nLnK_1_05",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/nLnK_1_05.json",
+      "sha256": "c5b782ff7fca8e9f8199e68cf26287136332874173f6f5ede842eece2b63258d"
+    },
+    {
+      "roi": "nLnK_1_05",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/nLnK_1_05.json",
+      "sha256": "72d726681ca3928edcf5e847446246f3425d0232a597f960e662180eb391f6da"
+    },
+    {
+      "roi": "nLnK_1_05",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/nLnK_1_05.json",
+      "sha256": "a2e4f16d63f83a97afdf723b7570d788390e2f4eec4736e84df5a8a603843993"
+    },
+    {
+      "roi": "nLnK_1_05",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/nLnK_1_05.json",
+      "sha256": "14d26a322313ca9c28ac01c48dc48bec870a479c7cea64457cd36541d7c5875e"
+    },
+    {
+      "roi": "nLnK_1_05",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/nLnK_1_05.json",
+      "sha256": "8af22a8b81e9b8ad42b93ab35752efe3fc431992be6b491a6d88dcb0b71ff2ce"
+    },
+    {
+      "roi": "nLnK_1_05",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/nLnK_1_05.json",
+      "sha256": "60196018c6a91259eab615eac597c5d3698dc4934cab298297773f50746046cf"
+    },
+    {
+      "roi": "nLnK_1_05",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/nLnK_1_05.json",
+      "sha256": "4cc3d2cf99b6e3b6ee47f8c0ba7e9128029c9c05e92eb38c758ce5afefa2d935"
+    },
+    {
+      "roi": "nLnK_1_05",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/nLnK_1_05.json",
+      "sha256": "b4ec28c203dc22f1ca9b285b9df73365caf39d3ba7686565e243976ba6f5dbf1"
+    },
+    {
+      "roi": "nLwK_1_01",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/nLwK_1_01.json",
+      "sha256": "e4d04e8b62ddf938b0f573883710f7c7df63c17f9d6e852f7ed6b4374962b682"
+    },
+    {
+      "roi": "nLwK_1_01",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/nLwK_1_01.json",
+      "sha256": "1d295c032a26661ac66b6b223d84c8e76f700710db4868a302b049d0c90431b3"
+    },
+    {
+      "roi": "nLwK_1_01",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/nLwK_1_01.json",
+      "sha256": "f49109fd1b33d8f554fddf00400cd5204050ed6f5966e13dd9800047bcaf6812"
+    },
+    {
+      "roi": "nLwK_1_01",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/nLwK_1_01.json",
+      "sha256": "672f1d6059c164fe1fe373c49404f9ed143942b905f5bd773eae81bd63f43de6"
+    },
+    {
+      "roi": "nLwK_1_01",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/nLwK_1_01.json",
+      "sha256": "e4ad97aa0dae4af6b057ad40dccfea45ab660bf9ccf82fa65778390108a60c95"
+    },
+    {
+      "roi": "nLwK_1_01",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/nLwK_1_01.json",
+      "sha256": "aeb5e4031c685d6b3708fc0c8051f59aee98758a7a55497686b32c58727ed389"
+    },
+    {
+      "roi": "nLwK_1_01",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/nLwK_1_01.json",
+      "sha256": "3a50ea637fa06feb6822ef50639aca2f5cdbc582c579c3da303da263e8ed0f0b"
+    },
+    {
+      "roi": "nLwK_1_01",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/nLwK_1_01.json",
+      "sha256": "1c18de19158f39ce662e0bebefb1ab89b2cb26882063090160ba759b73555ebb"
+    },
+    {
+      "roi": "nLwK_1_01",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/nLwK_1_01.json",
+      "sha256": "8d59c2514ee9f08c7a3f86e6067fdee4471640554984f5217ee7e694b40cc65e"
+    },
+    {
+      "roi": "nLwK_1_01",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/nLwK_1_01.json",
+      "sha256": "25d4224a8f9e40060a298af29e160b1f7f244ead796ee1a2e9dc15bacad1a4ed"
+    },
+    {
+      "roi": "nLwK_1_01",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/nLwK_1_01.json",
+      "sha256": "f772b38a765a015e442eb00b2a5383bcdcac1149b26329b4d7709fe0fb9da62b"
+    },
+    {
+      "roi": "nLwK_1_01",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/nLwK_1_01.json",
+      "sha256": "dcf59d05e790c9a3d216f7ce149fbf69f047681a03db6a22c681ac7703d76df9"
+    },
+    {
+      "roi": "nLwK_1_01",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/nLwK_1_01.json",
+      "sha256": "4c79e0aa5b4a8de2577be150c39e96c5481757ab8470634887a17c830bc5f1a8"
+    },
+    {
+      "roi": "nLwK_1_01",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/nLwK_1_01.json",
+      "sha256": "8f344da323c7db18f74f28a97681096fb8a1073819a1ac052f81e4b98b10c814"
+    },
+    {
+      "roi": "nLwK_1_02",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/nLwK_1_02.json",
+      "sha256": "def1f56826141ae5315709be712b7409136919841c836e4cb83abd7ae4374aa8"
+    },
+    {
+      "roi": "nLwK_1_02",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/nLwK_1_02.json",
+      "sha256": "4f4d24b60a2d54ed62cdc06c7e896ff709ff3a2a170b5de14e718fbc83ce7edc"
+    },
+    {
+      "roi": "nLwK_1_02",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/nLwK_1_02.json",
+      "sha256": "a065bc7cb22d206cd02e501efefa820596ec396240d0f22cf2e0a596c73ed678"
+    },
+    {
+      "roi": "nLwK_1_02",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/nLwK_1_02.json",
+      "sha256": "dc9d6b71277f75f127f163a08a14d454e982fc654bc3598265583b30b1ff3e9b"
+    },
+    {
+      "roi": "nLwK_1_02",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/nLwK_1_02.json",
+      "sha256": "6aa4273421c81b6b19402197b1b889f4d801127bc8cb1a7b0f98ccb94be4f71e"
+    },
+    {
+      "roi": "nLwK_1_02",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/nLwK_1_02.json",
+      "sha256": "06e5cc710f3de01779622467eb4c79d9e594d574fc5bb99a64c521e55c5060b2"
+    },
+    {
+      "roi": "nLwK_1_02",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/nLwK_1_02.json",
+      "sha256": "0b6f16b9ccdc26afd673185224a42046a926d51747c49d1373c9218e2002d0d6"
+    },
+    {
+      "roi": "nLwK_1_02",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/nLwK_1_02.json",
+      "sha256": "2e056530a66f43edf5f89d8c63a95bc30ef7e23962cf59d0e501cea66666474b"
+    },
+    {
+      "roi": "nLwK_1_02",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/nLwK_1_02.json",
+      "sha256": "697807f8fc2320428a42d89349153f28403bfb0f00fbc94c461be9042fec1a10"
+    },
+    {
+      "roi": "nLwK_1_02",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/nLwK_1_02.json",
+      "sha256": "f713aef020d9b28edcf8fbae0164e242eb3b493f38b32d404a51d50f52b035dd"
+    },
+    {
+      "roi": "nLwK_1_02",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/nLwK_1_02.json",
+      "sha256": "de35f295d51c84eb02a7d5308c4e8fe39865356e20691d60eed494dda825b69f"
+    },
+    {
+      "roi": "nLwK_1_02",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/nLwK_1_02.json",
+      "sha256": "76d62a8dcb90a8067c6681815ed9c1a31e27aa17f1da8ce0bad8e85c3d512833"
+    },
+    {
+      "roi": "nLwK_1_02",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/nLwK_1_02.json",
+      "sha256": "a5627474a71d938f44b6979da0a9e6fc589fd763156a5169e98497ba69b8bf6d"
+    },
+    {
+      "roi": "nLwK_1_02",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/nLwK_1_02.json",
+      "sha256": "d268e7d9a5801aefc00ffd1a8f1622a939173ef4c38c3fc4c84d1795ca71f92b"
+    },
+    {
+      "roi": "nLwK_1_03",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/nLwK_1_03.json",
+      "sha256": "61d89fd75b9829af2a9e00b7bb32cd565dec83ca261c185d397c4a56d548f181"
+    },
+    {
+      "roi": "nLwK_1_03",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/nLwK_1_03.json",
+      "sha256": "b808539f3a2f4f2bcdf5bcf47d1fc6cac67fca3e7b06abc76d1be999d2cc41c1"
+    },
+    {
+      "roi": "nLwK_1_03",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/nLwK_1_03.json",
+      "sha256": "c31f625dff61774f71544f13e614fc0a0c1519b1e8cf7db645c1f656c41129f3"
+    },
+    {
+      "roi": "nLwK_1_03",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/nLwK_1_03.json",
+      "sha256": "d4dfffabbe5c9b71cfd46e5fd6572a4f86e6affac74cc8a942c05bf5d036cb35"
+    },
+    {
+      "roi": "nLwK_1_03",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/nLwK_1_03.json",
+      "sha256": "a555f20b7678cb8b5013539136977f12f7f0118f79839c44d671fa4006b2d3db"
+    },
+    {
+      "roi": "nLwK_1_03",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/nLwK_1_03.json",
+      "sha256": "77f2858432099142fd03daaef756666abf2a219b898a6915d8251d241822a46a"
+    },
+    {
+      "roi": "nLwK_1_03",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/nLwK_1_03.json",
+      "sha256": "908d7673b5c9ad0db9e5fa8972981924aadf68e10ca6a315a1b3e2e327379541"
+    },
+    {
+      "roi": "nLwK_1_03",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/nLwK_1_03.json",
+      "sha256": "04e72137a4c413867ce300c6ecc71cc8f82b7f0b8c223d97b0ecc18646eef2d9"
+    },
+    {
+      "roi": "nLwK_1_03",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/nLwK_1_03.json",
+      "sha256": "b6fb28b89f07af203ae6b79654efff7ec416c2cd75189a6464715577e34a7cd1"
+    },
+    {
+      "roi": "nLwK_1_03",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/nLwK_1_03.json",
+      "sha256": "e5296659b2d366ee26ae1280feb6eac979210dd67955d99882f1287a34812215"
+    },
+    {
+      "roi": "nLwK_1_03",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/nLwK_1_03.json",
+      "sha256": "dca5acbc3ad47d44fda45de8ea732bc34448fa774506ff250077e99745afe0f3"
+    },
+    {
+      "roi": "nLwK_1_03",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/nLwK_1_03.json",
+      "sha256": "356d44302c155a24ab36c87d3b8b5ee1c1191279bdc4f946fb4506e88405e2cb"
+    },
+    {
+      "roi": "nLwK_1_03",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/nLwK_1_03.json",
+      "sha256": "74105e009f57aca8a64a018371184f97fca56b79c7fb46f0d2b785ecd278b58e"
+    },
+    {
+      "roi": "nLwK_1_03",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/nLwK_1_03.json",
+      "sha256": "4f24946a92538b9420370eb576d7565fadebf8988843707448ae881dc76a22e4"
+    },
+    {
+      "roi": "nLwK_1_04",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/nLwK_1_04.json",
+      "sha256": "44cfe495fb0106703e8e1bf2066363dfbf625fa4fc0f3d9b69e8460ee28ae619"
+    },
+    {
+      "roi": "nLwK_1_04",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/nLwK_1_04.json",
+      "sha256": "544a59ad9dd1f608144a5eaca6d3717cd6e37245c7ca015666a17fefd25bf154"
+    },
+    {
+      "roi": "nLwK_1_04",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/nLwK_1_04.json",
+      "sha256": "ddb93c3cf090dba250047de03c29beefc1c5f83c80e6b844fc7076088742a3cc"
+    },
+    {
+      "roi": "nLwK_1_04",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/nLwK_1_04.json",
+      "sha256": "8c05dff9652ea824aaa58304ff052bb5a8ef0b0d6c36697cf66eeb059a83634a"
+    },
+    {
+      "roi": "nLwK_1_04",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/nLwK_1_04.json",
+      "sha256": "120465aa3bc47a11768acfa0fac24110df75da003a35dabd430addfb052c2dbf"
+    },
+    {
+      "roi": "nLwK_1_04",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/nLwK_1_04.json",
+      "sha256": "09b3ff81e3584f3b699adae641cfc5ada839c12ca9bc3f871d7cbbb425c90628"
+    },
+    {
+      "roi": "nLwK_1_04",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/nLwK_1_04.json",
+      "sha256": "6d7b756018212606c025458ecc92d142febdb09fee162a56080efd1763d4b936"
+    },
+    {
+      "roi": "nLwK_1_04",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/nLwK_1_04.json",
+      "sha256": "17e3680084c1e609f168f835a588a297cca6a8a190647a1823fc89c5748e80af"
+    },
+    {
+      "roi": "nLwK_1_04",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/nLwK_1_04.json",
+      "sha256": "416ecfce457f8b8908bbd86b2ed1632900808d5ec77091f1ef8f421f6f572190"
+    },
+    {
+      "roi": "nLwK_1_04",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/nLwK_1_04.json",
+      "sha256": "2bf63c90b17e181692eec7a5dd12fdfbba63134e0ba6cc890a82b515f66c93da"
+    },
+    {
+      "roi": "nLwK_1_04",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/nLwK_1_04.json",
+      "sha256": "1204a36b499271c83aa8763f0e49ed8d3dabdf02492474fb77cc8e4af92b69ed"
+    },
+    {
+      "roi": "nLwK_1_04",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/nLwK_1_04.json",
+      "sha256": "6dee99731db45191b02b2e4856db9adcf84e36c313c4ec47e35f5dbe1929a70a"
+    },
+    {
+      "roi": "nLwK_1_04",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/nLwK_1_04.json",
+      "sha256": "d423e82ec9a7ce6b5e6c95e5eb6f3e4af26bbbe5924e78cae97c92feddb87374"
+    },
+    {
+      "roi": "nLwK_1_04",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/nLwK_1_04.json",
+      "sha256": "6fe978c5f1a3de9234a075a322c38291feb64190edf242893dceaf5ba4913379"
+    },
+    {
+      "roi": "nLwK_1_05",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/nLwK_1_05.json",
+      "sha256": "1d22a18db5e42ebed46b91299838a1b54d82109583f02eba3a20c92f020959aa"
+    },
+    {
+      "roi": "nLwK_1_05",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/nLwK_1_05.json",
+      "sha256": "94627da1e5fd86dddae7e881336de8bdb18acd99b7e174c51365c025cdfa8154"
+    },
+    {
+      "roi": "nLwK_1_05",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/nLwK_1_05.json",
+      "sha256": "92643f0e526cf7f0821989a1ef7b8967730b543c051a604e5b0395f762a6edc0"
+    },
+    {
+      "roi": "nLwK_1_05",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/nLwK_1_05.json",
+      "sha256": "8772af48689c83ae6d7dbd3d0df112aeab8493ac69d4795650a08edf4b2d0ebc"
+    },
+    {
+      "roi": "nLwK_1_05",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/nLwK_1_05.json",
+      "sha256": "a9567be9b9f0f4df846c7c5946763f61e7b66b3eee1eb1bbd3646a022e41e51e"
+    },
+    {
+      "roi": "nLwK_1_05",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/nLwK_1_05.json",
+      "sha256": "61920ee59fa2b70b713c1b304e3dab32f8970ec85e32f3b0ff2522bdc229809b"
+    },
+    {
+      "roi": "nLwK_1_05",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/nLwK_1_05.json",
+      "sha256": "e751e07579139617255b2ccfdd136a1fe84b1014f5208b9aba98b4491091d782"
+    },
+    {
+      "roi": "nLwK_1_05",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/nLwK_1_05.json",
+      "sha256": "e8ae61438e52c788c30237a03d2715258a695bee9a78b4f7ea74f9425fc9643a"
+    },
+    {
+      "roi": "nLwK_1_05",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/nLwK_1_05.json",
+      "sha256": "05b8a2b3b591e5579c77f89e8c990b1569ad5a8a3a7b3623859f101a87437877"
+    },
+    {
+      "roi": "nLwK_1_05",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/nLwK_1_05.json",
+      "sha256": "9c691759a3f833bffcc315af4d412f914d41850a195a25596fc785dadcc3c137"
+    },
+    {
+      "roi": "nLwK_1_05",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/nLwK_1_05.json",
+      "sha256": "e4d97500a62fe8c302812417924a568317b28c3044811eba18787a62acb4e7eb"
+    },
+    {
+      "roi": "nLwK_1_05",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/nLwK_1_05.json",
+      "sha256": "dbc798ec94ff176c3c3e030abe3d6c4f045287265add23428c01743546c28534"
+    },
+    {
+      "roi": "nLwK_1_05",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/nLwK_1_05.json",
+      "sha256": "3b9074acbde8e75a6efc70dea35ea81abed44175f8358be24d5f8f6042c33b35"
+    },
+    {
+      "roi": "nLwK_1_05",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/nLwK_1_05.json",
+      "sha256": "8f6a4109455e8f011ceefb5d43a5be21b2953224e03543c1ebbe8d609e83bede"
+    },
+    {
+      "roi": "N_1_01",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/N_1_01.json",
+      "sha256": "5cc23cc2ea8396f4b9c89ce3b3c984940ec0233ffb38f53147167256cfc8fffc"
+    },
+    {
+      "roi": "N_1_01",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/N_1_01.json",
+      "sha256": "5424684e2578520acf63ed0a0a54a5cc5c9c88de4ab514c8be8bdbbd73e1eb4c"
+    },
+    {
+      "roi": "N_1_01",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/N_1_01.json",
+      "sha256": "63fd4fbeeca0d280cb2c30cfe03aeb46aafac0070d98808132bdbc02b4b072be"
+    },
+    {
+      "roi": "N_1_01",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/N_1_01.json",
+      "sha256": "32472b4d1730c71894a63f593c505923536c82dba59e92dcb6d26f7c32275794"
+    },
+    {
+      "roi": "N_1_01",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/N_1_01.json",
+      "sha256": "e7c85ee9d02d0ac7ff9564491f14e34fb27795cc3a1146a08994957bfa36f1b8"
+    },
+    {
+      "roi": "N_1_01",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/N_1_01.json",
+      "sha256": "2f3260eaac4ef35b485ce2e8a8c5432f34dc751ba896d4daf4e2aca606167785"
+    },
+    {
+      "roi": "N_1_01",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/N_1_01.json",
+      "sha256": "6efb8d68a8cd331b9c52cc2e644c27477c83c3c0983116942399d4920e0be713"
+    },
+    {
+      "roi": "N_1_01",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/N_1_01.json",
+      "sha256": "947c40f44fc75d1f424de78e7a4c27d2ee0f282931cd961b1c17598f791e340e"
+    },
+    {
+      "roi": "N_1_01",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/N_1_01.json",
+      "sha256": "62bef9283ed7f372d5602b1605d973aa7a4472ee47ff9d2fdc4e0b58bd8dc6b9"
+    },
+    {
+      "roi": "N_1_01",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/N_1_01.json",
+      "sha256": "0c2de22d53ee17aa6a820ebfebea8b42dca174a4c16bc5a26bab73cde0750841"
+    },
+    {
+      "roi": "N_1_01",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/N_1_01.json",
+      "sha256": "48e969652effd2a035d97f070c191f55bf857703f7b64c5f1cbbbb143699d178"
+    },
+    {
+      "roi": "N_1_01",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/N_1_01.json",
+      "sha256": "c8f10ba47d8d29de74f15b6a02ce743394c576592624ceb6c0101d907a9f5975"
+    },
+    {
+      "roi": "N_1_01",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/N_1_01.json",
+      "sha256": "5587f68af2f26376b66636a7a115f09b9ecaff9a97a6758af0bc5a568bdff1f9"
+    },
+    {
+      "roi": "N_1_01",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/N_1_01.json",
+      "sha256": "f43e9eef1a9c38f910d533111d58196f371d382ca10e8165b2162d13f86b2c01"
+    },
+    {
+      "roi": "N_1_02",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/N_1_02.json",
+      "sha256": "03cdbd739253ba6b67cb965f5fce08ad5020542191d01ac65667e003dfaa0327"
+    },
+    {
+      "roi": "N_1_02",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/N_1_02.json",
+      "sha256": "7b14554bb369ec553e30218ab1299d858b177dea8e5d9755b67e92a8ebc97cdf"
+    },
+    {
+      "roi": "N_1_02",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/N_1_02.json",
+      "sha256": "70656276d9482e5c386536fbe59d9c31ad35a6fc27e9b745772b1c2ff6ee32e9"
+    },
+    {
+      "roi": "N_1_02",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/N_1_02.json",
+      "sha256": "e80322257a69cc3a363007e79baeb0805869f8fa0677c78a163b71ccdf0a8cf5"
+    },
+    {
+      "roi": "N_1_02",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/N_1_02.json",
+      "sha256": "d4e2a8f99df56788dabe6050763423a7b46dbf86267c3cf32ebf869c44a25a1a"
+    },
+    {
+      "roi": "N_1_02",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/N_1_02.json",
+      "sha256": "6259664495d5a4aa2e195e17b5efa661e5fa7789dd37b7061f64357b3b7cc2cf"
+    },
+    {
+      "roi": "N_1_02",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/N_1_02.json",
+      "sha256": "a553d253f74f26640cf822f6ce03c83b27f24fb0ae794572036883f3fc5fe76e"
+    },
+    {
+      "roi": "N_1_02",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/N_1_02.json",
+      "sha256": "a88eff2ed8c71c764b95f515ed973176f0ea244891fb32cee218cf3bf92c9adf"
+    },
+    {
+      "roi": "N_1_02",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/N_1_02.json",
+      "sha256": "9813a0f8f3407cfbabcc6c576edb03d4e5c6101b6b011b017e949c0b35771ef8"
+    },
+    {
+      "roi": "N_1_02",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/N_1_02.json",
+      "sha256": "a5004a3d8184cae5dd4e8004862776708af0f2ac18fe43d3af3982404ac71b85"
+    },
+    {
+      "roi": "N_1_02",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/N_1_02.json",
+      "sha256": "52c345a2a99ca3d7f79f04371c1234b95fc659c030707b84cb5bb3e14286afa7"
+    },
+    {
+      "roi": "N_1_02",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/N_1_02.json",
+      "sha256": "ea72d1e823051f2faa7befdf53aa9aa81fbee59bb9b70122001727a2335a3a0a"
+    },
+    {
+      "roi": "N_1_02",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/N_1_02.json",
+      "sha256": "5f66f0d3d4d42122fd403583e91747fe5604b0b3e517c113d7d2eb6d5c8df9f9"
+    },
+    {
+      "roi": "N_1_02",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/N_1_02.json",
+      "sha256": "7069ca6a7abaa943ddc2bcd8f5f546fc9d30d7bad58241b9c8f9a5b94bd6f91a"
+    },
+    {
+      "roi": "N_1_03",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/N_1_03.json",
+      "sha256": "ce4e8545265447bf0ad1112faeb8fcc39a759e3a19d081e1c175467b25af2e8a"
+    },
+    {
+      "roi": "N_1_03",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/N_1_03.json",
+      "sha256": "0d2e531fb07385ded3bff5d54aa2464a91c63b2fa91d1bc6453ee4ccc91f4a31"
+    },
+    {
+      "roi": "N_1_03",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/N_1_03.json",
+      "sha256": "fc2b1c960fdf71872a6b619541854100b0b7d9646de0ed173defb5463ce5ae60"
+    },
+    {
+      "roi": "N_1_03",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/N_1_03.json",
+      "sha256": "12c3c4fdf5b3870606e4b5f0b015b94e1e584ca2da5758c54f899bf27abebbd1"
+    },
+    {
+      "roi": "N_1_03",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/N_1_03.json",
+      "sha256": "c221b18b33271dcbd20823858f17f7924bac5b9f90ab18909f677c8a8768806a"
+    },
+    {
+      "roi": "N_1_03",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/N_1_03.json",
+      "sha256": "73fb52aeef3a056de8a94c69cf23c3b9c16153ebae0b90cd47b980c8613653e9"
+    },
+    {
+      "roi": "N_1_03",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/N_1_03.json",
+      "sha256": "0158cc8523ec63d37529f5381040b5a49f1b610ade2518149d29caa8869052c8"
+    },
+    {
+      "roi": "N_1_03",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/N_1_03.json",
+      "sha256": "20ffb38a636c14b24584b996b8e5c5276a714e98d29dfd29ed4382842422a7d4"
+    },
+    {
+      "roi": "N_1_03",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/N_1_03.json",
+      "sha256": "61d8aa2ea746698ef83438cb6e921cd0c1ebba97e7c7f543915dc39afd4cd870"
+    },
+    {
+      "roi": "N_1_03",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/N_1_03.json",
+      "sha256": "aa6cda546c4e6798bbc8a141e09e6c88d733c4ee61519c909b1db444510c1564"
+    },
+    {
+      "roi": "N_1_03",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/N_1_03.json",
+      "sha256": "f8e980328ca5fb190dad57ef0e114fe2a26494bf31f6fb8f5665f7cdb364c7d6"
+    },
+    {
+      "roi": "N_1_03",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/N_1_03.json",
+      "sha256": "4e4b0abef4a7c7e2974cfc79b39f6bfaffc439d10a6a9109397aec4ef596e27f"
+    },
+    {
+      "roi": "N_1_03",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/N_1_03.json",
+      "sha256": "e2fd2d93e8ce080014ac891829e93e2f60f832ef880e0748f9e551877d812723"
+    },
+    {
+      "roi": "N_1_03",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/N_1_03.json",
+      "sha256": "225f92218c5335ae80ad1021ac081e730e91d5ef9367d7826305e6f0d832f828"
+    },
+    {
+      "roi": "N_1_04",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/N_1_04.json",
+      "sha256": "f90c976a7044691b392b759e4cfd42b5a5bf5fc79fecd509bb7306b5ae25d376"
+    },
+    {
+      "roi": "N_1_04",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/N_1_04.json",
+      "sha256": "881c11fc7904fd1aa40f068ec402d4dca4a8c3404f436a0feedf7cd7514953ed"
+    },
+    {
+      "roi": "N_1_04",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/N_1_04.json",
+      "sha256": "d90517e547a71cefa7e7fc256f0dc3211a3c6751bfca407b8325cbdd1d7963d2"
+    },
+    {
+      "roi": "N_1_04",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/N_1_04.json",
+      "sha256": "dcb1e2561e3af1c697ec8f4de2abf3eb88fa3043004db56d8b93a8fb972dfba2"
+    },
+    {
+      "roi": "N_1_04",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/N_1_04.json",
+      "sha256": "4d59d9fbfb8f68555b52afc53b0a4bdea3c0413348ad22bee245c934b679e42a"
+    },
+    {
+      "roi": "N_1_04",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/N_1_04.json",
+      "sha256": "2d818d545f84efc910fe0a472765cf908c3b3d1f50b33850d908a8c13aaec76b"
+    },
+    {
+      "roi": "N_1_04",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/N_1_04.json",
+      "sha256": "6b31a4a21443596dc8ce41f09a7ce15c37c3defea5694bdc37fec503fc0e858d"
+    },
+    {
+      "roi": "N_1_04",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/N_1_04.json",
+      "sha256": "f52d7341b513e793b7b7118f78b920b896f80f1e005d5f1828b0a83f79210aa9"
+    },
+    {
+      "roi": "N_1_04",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/N_1_04.json",
+      "sha256": "081b62becc9cc256030736be527fbd5508a6f1218d7fe59bb66452c2f52df75e"
+    },
+    {
+      "roi": "N_1_04",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/N_1_04.json",
+      "sha256": "4bd9e92f97a40390cd0f43a085ceda905f8e1c2a2f58d2c3e4b52721feb55b5f"
+    },
+    {
+      "roi": "N_1_04",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/N_1_04.json",
+      "sha256": "7d2b7260830ab046f7c39016da48c3ace2daf564e64141bc796d3bdaf12f05ab"
+    },
+    {
+      "roi": "N_1_04",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/N_1_04.json",
+      "sha256": "25f1bca07ea88e9907edc7ef96fb8f6bacb888a448b3b03b5110b9fa6f69ab84"
+    },
+    {
+      "roi": "N_1_04",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/N_1_04.json",
+      "sha256": "54db5e905df7fa386a457df9680160b9ba6944e421620455a96589bd6465c63a"
+    },
+    {
+      "roi": "N_1_04",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/N_1_04.json",
+      "sha256": "e0808a52c1c66d289115c93d1e43e56af1dff1b378f86c88a978893a899d926b"
+    },
+    {
+      "roi": "N_1_05",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/N_1_05.json",
+      "sha256": "69cdfcc15a75cfaafabe360e4f03c697c6dd6140f590a6ad9565cddc51e0c833"
+    },
+    {
+      "roi": "N_1_05",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/N_1_05.json",
+      "sha256": "b8771f72f2e364784927d9bbf195965fbdc2d25a8aa0caaeead847bc669913ab"
+    },
+    {
+      "roi": "N_1_05",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/N_1_05.json",
+      "sha256": "cf3e46a28d9c275341890f0bd791375bfb280e0bb395416a677e6ddcf12eb6cf"
+    },
+    {
+      "roi": "N_1_05",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/N_1_05.json",
+      "sha256": "6c4b76bcc70066951544fa937bab4421d37681ce1b2189eb0fcf4757cddb3313"
+    },
+    {
+      "roi": "N_1_05",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/N_1_05.json",
+      "sha256": "ccc8fff880f4bc7193436e4a915ef7b4bc708c5cb75d3a5c4457b8cae9d45cea"
+    },
+    {
+      "roi": "N_1_05",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/N_1_05.json",
+      "sha256": "c3942093216f173ac2d7fc8b28f4637b0dcdc4ffbea71a56346888783d67a741"
+    },
+    {
+      "roi": "N_1_05",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/N_1_05.json",
+      "sha256": "854b8bfbf94eed8805f97c9489dc03e8faa5a20b4e622339aa58de65b4b67a47"
+    },
+    {
+      "roi": "N_1_05",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/N_1_05.json",
+      "sha256": "5cc63d7c5fe7bf53745f9b95e5cc2f4726bd407e735a037b2234bc2bc84f6e0b"
+    },
+    {
+      "roi": "N_1_05",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/N_1_05.json",
+      "sha256": "5544d9138402c2d63149f58a7a617f984e0a5c3f152909eec59ee7cab3e58d29"
+    },
+    {
+      "roi": "N_1_05",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/N_1_05.json",
+      "sha256": "40d979e6fc9ea48808025b109d6032e175eb4a37b11dc0559891bdc05c04e267"
+    },
+    {
+      "roi": "N_1_05",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/N_1_05.json",
+      "sha256": "079f3409a0705ae1a4326ebcf1c59844e156a255a15dcee81d22eb75251d446f"
+    },
+    {
+      "roi": "N_1_05",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/N_1_05.json",
+      "sha256": "6b971d62fd42143887e73b88e65460676358fa57cb50aedc6fa24228d1dd87e2"
+    },
+    {
+      "roi": "N_1_05",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/N_1_05.json",
+      "sha256": "5172f2ceb44803085b85475a0a0c5195370d62ea3773566d640fdbd152e63b77"
+    },
+    {
+      "roi": "N_1_05",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/N_1_05.json",
+      "sha256": "87f4cf7f6b74c512ae1893b80be6b3695d4e98105daa5df5746d369e1ce8906c"
+    },
+    {
+      "roi": "B_1_01",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/B_1_01.json",
+      "sha256": "61f83510360e6fa25ff5019e26ab57a0a75c1a41abf550c0171a234253f4df6b"
+    },
+    {
+      "roi": "B_1_01",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/B_1_01.json",
+      "sha256": "8f85a27045e3a5e5a27ab3131eb16a97ea9ca7943d035214d38e885a5aab59dc"
+    },
+    {
+      "roi": "B_1_01",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/B_1_01.json",
+      "sha256": "75127f650274c42783a8e863c33181d15aa41915ab8d73bfd875106565ac01da"
+    },
+    {
+      "roi": "B_1_01",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/B_1_01.json",
+      "sha256": "7e90473c42b9c3613c085c2348eb9d6e8ee086337152ab1a746afaa1b1964834"
+    },
+    {
+      "roi": "B_1_01",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/B_1_01.json",
+      "sha256": "0b332b903c1befcecceb2e4f69b35eb29cd36d0e929b59d7121df87077ee356c"
+    },
+    {
+      "roi": "B_1_01",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/B_1_01.json",
+      "sha256": "fbff3db487a706ac2e03b97a7a1779f46bd4831a55450984c5070ff208b4bd1a"
+    },
+    {
+      "roi": "B_1_01",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/B_1_01.json",
+      "sha256": "81c7ca0cd658a936c63d7945974b02f406d707e1910e500dabe5b1509c5a96d8"
+    },
+    {
+      "roi": "B_1_01",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/B_1_01.json",
+      "sha256": "16517b8893536ae8da7ae89fe71b142b1e135905e0c6e99a8c594958ec1d7e65"
+    },
+    {
+      "roi": "B_1_01",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/B_1_01.json",
+      "sha256": "576973b90388d3769d25353e999b4c524215e9c00f212f3e39ad888413bb30e2"
+    },
+    {
+      "roi": "B_1_01",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/B_1_01.json",
+      "sha256": "0df3a3fa547c2093cf8c7d6fe0cc82f6bf714408e9e94e76d827b6faf0f2a701"
+    },
+    {
+      "roi": "B_1_01",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/B_1_01.json",
+      "sha256": "20bc0a9be949e4d66e7978f57dc3268f030c4fc869a2e73a34e340930aea77d0"
+    },
+    {
+      "roi": "B_1_01",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/B_1_01.json",
+      "sha256": "e088c433b1cc37d276d93f684901b7328dce6fa595ede254fad7ef175bc8e460"
+    },
+    {
+      "roi": "B_1_01",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/B_1_01.json",
+      "sha256": "af7f57f406246f30ab75c6d2e8c74ddeac8b7555665f402543a2ab563db531cb"
+    },
+    {
+      "roi": "B_1_01",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/B_1_01.json",
+      "sha256": "d51f091f3c79e4407cff2958f0905113fb036f7be2176acd610b76d9a3bee24b"
+    },
+    {
+      "roi": "B_1_02",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/B_1_02.json",
+      "sha256": "317d03a5b3ff3a3aa1fc4de64bb18c88a67f6cd8535dea2d2c7c270c55ce6ae5"
+    },
+    {
+      "roi": "B_1_02",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/B_1_02.json",
+      "sha256": "8a5e9bbaecb1e6c8c4e173d92016775890b388f9b02c7a87e39875bf8844bae6"
+    },
+    {
+      "roi": "B_1_02",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/B_1_02.json",
+      "sha256": "41d53da7eefbd4824fe16e1024998a81fae995532e833a393c8c315703b4e5aa"
+    },
+    {
+      "roi": "B_1_02",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/B_1_02.json",
+      "sha256": "b805b326b376c122f4a32200f9838da2bb7767971086a9f20d7ff2ba63101e75"
+    },
+    {
+      "roi": "B_1_02",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/B_1_02.json",
+      "sha256": "b495fee53f89ad04a71314741edf54e4a6178099850895fcf00d3d8be3f27421"
+    },
+    {
+      "roi": "B_1_02",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/B_1_02.json",
+      "sha256": "22ba77245636a265c3cf58b9e931d4ef37097cac9f3ce3a992c84882517a80cc"
+    },
+    {
+      "roi": "B_1_02",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/B_1_02.json",
+      "sha256": "507a6010ab2fe6550d4c3efa5793840290f28468caf36bf60099c2b747735ede"
+    },
+    {
+      "roi": "B_1_02",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/B_1_02.json",
+      "sha256": "027f4f84c5993900d3039dff1bb69cd25d462dc90a811631af77e3cf59c5586d"
+    },
+    {
+      "roi": "B_1_02",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/B_1_02.json",
+      "sha256": "873b040167089497722509e4960c6946599adb55535388ef94b86b5a008f39e1"
+    },
+    {
+      "roi": "B_1_02",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/B_1_02.json",
+      "sha256": "26e21343c45d3678ef7139e90be5fcb6754decbef88e6432603ff160e3e96ec3"
+    },
+    {
+      "roi": "B_1_02",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/B_1_02.json",
+      "sha256": "6eb4e55570982cc931a8fd172370103b0e41dcd0d5729993206dd11bb390d486"
+    },
+    {
+      "roi": "B_1_02",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/B_1_02.json",
+      "sha256": "d498599ea951f03ca5483315cc9f677e2eb53ade17ee72871ad95a33ef9d9040"
+    },
+    {
+      "roi": "B_1_02",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/B_1_02.json",
+      "sha256": "f16c9768babc8a8395091381dbec26cb89fe1e1b0456267c1ffb4dbf75c37902"
+    },
+    {
+      "roi": "B_1_02",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/B_1_02.json",
+      "sha256": "e4c8a415f1f911ea6a084e9ac3b5f067d47b459228a6e718a3b5706bbd7a9fa0"
+    },
+    {
+      "roi": "B_1_03",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/B_1_03.json",
+      "sha256": "5d95643629c238c0afc2c76e8686e92711ae1f15ab56f6a9dc9573ac8579a915"
+    },
+    {
+      "roi": "B_1_03",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/B_1_03.json",
+      "sha256": "609f0583eb50f09e43eea76dd20012b6628162f63a4d76793217ac8d5b00215e"
+    },
+    {
+      "roi": "B_1_03",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/B_1_03.json",
+      "sha256": "1ecf2c89ecee227ec2c910487874d1a20f5ac792a87b8f707cf2c8c147877ab8"
+    },
+    {
+      "roi": "B_1_03",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/B_1_03.json",
+      "sha256": "8b0e237176da243b4919afcfc06c994244c2c274cf1e3994dbbc01b1a767b7a9"
+    },
+    {
+      "roi": "B_1_03",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/B_1_03.json",
+      "sha256": "790689697888d5acc0e3380b1368661b5b81b3557b288aa2d6db0b10237395eb"
+    },
+    {
+      "roi": "B_1_03",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/B_1_03.json",
+      "sha256": "66106187e056b3f0ce426ad35ca7b3799e41d0134a6736eb6403d4453339bd97"
+    },
+    {
+      "roi": "B_1_03",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/B_1_03.json",
+      "sha256": "0b9bfbd8ff6d1d317d03ecee613716a77aeec464638bed2b0d13a52183df0585"
+    },
+    {
+      "roi": "B_1_03",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/B_1_03.json",
+      "sha256": "803efd46b2431cdd4a7ac1803ba36c82db7b41598379026eb2b96e51cb1c8958"
+    },
+    {
+      "roi": "B_1_03",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/B_1_03.json",
+      "sha256": "e7a70d951cbbbe9c59e1a63051a0d754b91048a2031f7cbbb8f89311bc59f770"
+    },
+    {
+      "roi": "B_1_03",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/B_1_03.json",
+      "sha256": "304799841ed885f50be8a585dfd6549e09f5746493b3b33b6182e6dcedf7ac2a"
+    },
+    {
+      "roi": "B_1_03",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/B_1_03.json",
+      "sha256": "472c464819891770b84175b316e724dcf335383870881255213c661da58a1dfd"
+    },
+    {
+      "roi": "B_1_03",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/B_1_03.json",
+      "sha256": "04b18e7431a9f41707e7ae42a149b0240b58f55888d6d8f1c5ca2068534d4af1"
+    },
+    {
+      "roi": "B_1_03",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/B_1_03.json",
+      "sha256": "dac870caebfba5dd9c9ed9373231955a3ccc2e1a8a098c150bf056ee568d779d"
+    },
+    {
+      "roi": "B_1_03",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/B_1_03.json",
+      "sha256": "9d27d146f59e077e604c9459ac98494a7ddc32f3aeaeb97aa65796c92310a6a3"
+    },
+    {
+      "roi": "B_1_04",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/B_1_04.json",
+      "sha256": "c57e98dfcd30c667d1a2f6f08430a71f544509023a7c5e4ed52167943bfcec05"
+    },
+    {
+      "roi": "B_1_04",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/B_1_04.json",
+      "sha256": "27aceecaa508e8ffcad416b4362bc8368da8b83acea7f745e2ac5f3057da8a0b"
+    },
+    {
+      "roi": "B_1_04",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/B_1_04.json",
+      "sha256": "c9589276240f6c7f33a46153073a19654f5da5925dfa642cc0fefecf0930ee0e"
+    },
+    {
+      "roi": "B_1_04",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/B_1_04.json",
+      "sha256": "9e5e3d120aadc864b3eee3213148cedb64bcaf86cc5fe378b0237470cf72a163"
+    },
+    {
+      "roi": "B_1_04",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/B_1_04.json",
+      "sha256": "4ce6f90e0542803c0d192b33bf26376d605c1c7c50efa58d3b1031a838348632"
+    },
+    {
+      "roi": "B_1_04",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/B_1_04.json",
+      "sha256": "72ac1bb50dd902e910d4269a2991d12561948bdc3d729c200b38336b1c24dec1"
+    },
+    {
+      "roi": "B_1_04",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/B_1_04.json",
+      "sha256": "60d8ebdd2ac01968c6ac92d69fd7c59b790c959358b6cf220df58b31e7996afd"
+    },
+    {
+      "roi": "B_1_04",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/B_1_04.json",
+      "sha256": "cd1fcefc459859454fd8ffd230619d8e93f9c9d226a28a617bf547ceef5b3d7d"
+    },
+    {
+      "roi": "B_1_04",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/B_1_04.json",
+      "sha256": "aee82a5e4cd2edcf4b49a87b4e71feccc568305293069869a6e045c148d1f705"
+    },
+    {
+      "roi": "B_1_04",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/B_1_04.json",
+      "sha256": "49beb8487f27be2f683e5b42338b5349b85ef062e55f74c93e48e01f4b039ee1"
+    },
+    {
+      "roi": "B_1_04",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/B_1_04.json",
+      "sha256": "33e8c8d7f77e6c4a41db8e90aee9b5c1b0ceb3c9549b6d7b14ca1fc665db9ec9"
+    },
+    {
+      "roi": "B_1_04",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/B_1_04.json",
+      "sha256": "a85216a136997682ae209be961a1abfb4c38ac91b610281daa9e39aa7c9b555d"
+    },
+    {
+      "roi": "B_1_04",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/B_1_04.json",
+      "sha256": "73a345bdc1d11dfc96a643c6c4174fe67c142a15754724ad2ae245d551873f28"
+    },
+    {
+      "roi": "B_1_04",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/B_1_04.json",
+      "sha256": "61ed228a71d8b48fcb98636540eed82ef4af6cbf111c5b62e6c676221814cd5a"
+    },
+    {
+      "roi": "B_1_05",
+      "marker_id": "TrkA",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/TrkA/assets/components/B_1_05.json",
+      "sha256": "4901183b2ba56b82f5d3733a49d021dae2d461a5db622ebf4d7a9464b39bdb7f"
+    },
+    {
+      "roi": "B_1_05",
+      "marker_id": "p75NTR",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p75NTR/assets/components/B_1_05.json",
+      "sha256": "c1e83c4f83de298498d207b6ba732907f2cc515f721c3efa5f1f03a5d5e6b5f4"
+    },
+    {
+      "roi": "B_1_05",
+      "marker_id": "Ret",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/Ret/assets/components/B_1_05.json",
+      "sha256": "59fd1f0c158ce3748f83e26ff1e970cb882cc2b9feeb028b39840c5541c40247"
+    },
+    {
+      "roi": "B_1_05",
+      "marker_id": "p_Tyr",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Tyr/assets/components/B_1_05.json",
+      "sha256": "d5a6fa6907ae52e678cf8cef56e1165a972696cf432a7713f3f8b156ded5c985"
+    },
+    {
+      "roi": "B_1_05",
+      "marker_id": "p_Akt_S473",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_S473/assets/components/B_1_05.json",
+      "sha256": "295dd1a1967660285598b9c8a691661729f21eaaf456c158920e2e85c2b53062"
+    },
+    {
+      "roi": "B_1_05",
+      "marker_id": "p_Akt_T308",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_Akt_T308/assets/components/B_1_05.json",
+      "sha256": "7988192e4a414412b3c996c539099c9d21cb70025f976eb601057c420ec2a067"
+    },
+    {
+      "roi": "B_1_05",
+      "marker_id": "p_PLCg2",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_PLCg2/assets/components/B_1_05.json",
+      "sha256": "43ff235ef12402ac6034965d5d5541cf9c08d8fa932cca84639faaba0843a8c8"
+    },
+    {
+      "roi": "B_1_05",
+      "marker_id": "p_S6",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_S6/assets/components/B_1_05.json",
+      "sha256": "42f657396381be3f74d1a828749dae0bd43a4a51ee0f0edac95367e2e331bc1d"
+    },
+    {
+      "roi": "B_1_05",
+      "marker_id": "p_CREB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_CREB/assets/components/B_1_05.json",
+      "sha256": "689bf208f72fc33eab16393af29eea2603c9b3cc0158c6e33275575f029e8f67"
+    },
+    {
+      "roi": "B_1_05",
+      "marker_id": "p_NFkB",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_NFkB/assets/components/B_1_05.json",
+      "sha256": "2e48cea63219faaabe18c6f4a39f8fb46bcfed66198505e2804acacf8b43bbdb"
+    },
+    {
+      "roi": "B_1_05",
+      "marker_id": "p_ATM",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_ATM/assets/components/B_1_05.json",
+      "sha256": "3ea01a9617bb29739a3b3ada85a66c54fa8181a211b2f264358e8f9f4e5450a7"
+    },
+    {
+      "roi": "B_1_05",
+      "marker_id": "p_C_Jun",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/p_C_Jun/assets/components/B_1_05.json",
+      "sha256": "5817aef4422eed94bf786ec705da1287b5b4c5ea5c19c282cacfe195202d2d46"
+    },
+    {
+      "roi": "B_1_05",
+      "marker_id": "c_Fos",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/c_Fos/assets/components/B_1_05.json",
+      "sha256": "93781b0a95bbbe044f6833712db28799f5dd2b0e78da04449a8dcf3fc2ba35c6"
+    },
+    {
+      "roi": "B_1_05",
+      "marker_id": "H3K9ac",
+      "snapshot_path": "outputs/All_Marker_pipeline/02_Hot_Pixel_Aggregate_Inspection/markers/H3K9ac/assets/components/B_1_05.json",
+      "sha256": "53c270d8926f7c2071a2a538ef7877863185a3f8d2b9ef497ce3fbddae21bd5a"
+    }
+  ],
+  "dataset_id": "imc-frozen-proof-18dd5367cbb1f8696e990f74",
+  "teaching_subset_exact_array_and_population_matches": 70,
+  "neuron_count": 13542,
+  "raw_arrays_origin": "Frozen Step 02 quantitative arrays, not prior cell summaries",
+  "source_noise_sha256": "541e96deca3df2f13eab79dc6244235dbe8f9281a9d037e632835a51e8e24356"
+}

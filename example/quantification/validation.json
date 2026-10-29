@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "source_neurons": 13542,
+  "retained_neurons": 7440,
+  "rois": 25,
+  "all_original_pAkt_tiff_planes_exactly_match": 25,
+  "direct_source_pixel_checks": 13542,
+  "historical_audit_cell_identity_match": true,
+  "historical_audit_per_column_mismatches": {
+    "original_pixel_count": 0,
+    "original_area_um2": 0,
+    "raw_mean_before": 0,
+    "small_hot_pixels": 0,
+    "hot_pixels": 0,
+    "hot_marker_count": 0,
+    "large_aggregate_near": 0,
+    "spread_pixels": 0,
+    "hot_and_spread_overlap_pixels": 0,
+    "removed_union_pixels": 0,
+    "retained_pixel_count": 0,
+    "retained_sum": 0,
+    "mean_after_pixel_removal": 0,
+    "retained": 0,
+    "asinh_after": 0
+  },
+  "historical_exclusion_reason_match": true,
+  "union_denominator_transform_checks": true,
+  "historical_audit_sha256": "ce7d0490f8b10f7a60f05a628051cd35091cf04e89e5d9e482a55224ca840903",
+  "interpretation": "Computational reproducibility on this frozen experiment; not independent validation of biological signal or mask correctness."
+}

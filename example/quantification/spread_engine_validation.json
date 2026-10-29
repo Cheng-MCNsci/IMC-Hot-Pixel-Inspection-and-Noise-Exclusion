@@ -1,0 +1,26 @@
+{
+  "note": "Recomputed with current endpoint engine at frozen historical crop geometry, reference drawings and applied settings. This checks engine parity, not a new 75%-default prediction.",
+  "reports": [
+    {
+      "aggregate": "B_1_02:aggregate-001",
+      "automatic_pixels": 511,
+      "manual_pixels": 138,
+      "union_pixels": 649,
+      "exact_historical_mask_match": true
+    },
+    {
+      "aggregate": "nLnK_1_02:aggregate-004",
+      "automatic_pixels": 0,
+      "manual_pixels": 374,
+      "union_pixels": 374,
+      "exact_historical_mask_match": true
+    },
+    {
+      "aggregate": "nLnK_1_02:aggregate-005",
+      "automatic_pixels": 0,
+      "manual_pixels": 160,
+      "union_pixels": 160,
+      "exact_historical_mask_match": true
+    }
+  ]
+}

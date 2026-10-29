@@ -1,0 +1,67 @@
+{
+  "source_cells": 13542,
+  "retained_cells": 7440,
+  "changed_retained_means": 940,
+  "spread_changes_beyond_hot_removal": 2,
+  "retained_cells_with_spread_pixels": 2,
+  "retained_removed_pixel_fraction": 0.0008511040091064195,
+  "retained_removed_pixels": 1298,
+  "retained_original_pixels": 1525078,
+  "first_exclusion_counts": {
+    "retained": 7440,
+    "area": 6088,
+    "large-gap": 10,
+    "cross-marker": 2,
+    "spread-overlap": 2
+  },
+  "zoom_limit": 0.15,
+  "same_cells_above_zoom_before": 12,
+  "same_cells_above_zoom_after": 0,
+  "conditions": [
+    {
+      "condition": "CoN",
+      "before": 3234,
+      "retained": 1771,
+      "raw_all_median": 0.1666666666666666,
+      "raw_retained_median": 0.1659192825112107,
+      "corrected_retained_median": 0.1618705035971223,
+      "retained_pixels_removed_percent": 0.07523330327558332
+    },
+    {
+      "condition": "nLnK",
+      "before": 1762,
+      "retained": 959,
+      "raw_all_median": 0.16945650651351724,
+      "raw_retained_median": 0.1640625,
+      "corrected_retained_median": 0.1559139784946236,
+      "retained_pixels_removed_percent": 0.1419421845248399
+    },
+    {
+      "condition": "nLwK",
+      "before": 3105,
+      "retained": 1590,
+      "raw_all_median": 0.1515151515151515,
+      "raw_retained_median": 0.15051153565090294,
+      "corrected_retained_median": 0.1458333333333333,
+      "retained_pixels_removed_percent": 0.08454790888041275
+    },
+    {
+      "condition": "N",
+      "before": 3600,
+      "retained": 2086,
+      "raw_all_median": 0.21786711891460492,
+      "raw_retained_median": 0.2189640410958904,
+      "corrected_retained_median": 0.2149028986203913,
+      "retained_pixels_removed_percent": 0.07505137863069812
+    },
+    {
+      "condition": "B",
+      "before": 1841,
+      "retained": 1034,
+      "raw_all_median": 0.1282051282051282,
+      "raw_retained_median": 0.1280487804878048,
+      "corrected_retained_median": 0.1256281407035175,
+      "retained_pixels_removed_percent": 0.06919982892264516
+    }
+  ]
+}

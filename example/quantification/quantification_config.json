@@ -1,0 +1,87 @@
+{
+  "marker_id": "p_Akt_S473",
+  "required_markers": [
+    "TrkA",
+    "p75NTR",
+    "Ret",
+    "p_Tyr",
+    "p_Akt_S473",
+    "p_Akt_T308",
+    "p_PLCg2",
+    "p_S6",
+    "p_CREB",
+    "p_NFkB",
+    "p_ATM",
+    "p_C_Jun",
+    "c_Fos",
+    "H3K9ac"
+  ],
+  "cutoffs": {
+    "TrkA": {
+      "value": 10000,
+      "operator": ">="
+    },
+    "p75NTR": {
+      "value": 100,
+      "operator": ">="
+    },
+    "Ret": {
+      "value": 30,
+      "operator": ">="
+    },
+    "p_Tyr": {
+      "value": 25,
+      "operator": ">="
+    },
+    "p_Akt_S473": {
+      "value": 5,
+      "operator": ">="
+    },
+    "p_Akt_T308": {
+      "value": 200,
+      "operator": ">="
+    },
+    "p_PLCg2": {
+      "value": 10,
+      "operator": ">="
+    },
+    "p_S6": {
+      "value": 15,
+      "operator": ">="
+    },
+    "p_CREB": {
+      "value": 15,
+      "operator": ">="
+    },
+    "p_NFkB": {
+      "value": 20,
+      "operator": ">="
+    },
+    "p_ATM": {
+      "value": 100,
+      "operator": ">="
+    },
+    "p_C_Jun": {
+      "value": 10,
+      "operator": ">="
+    },
+    "c_Fos": {
+      "value": 10,
+      "operator": ">="
+    },
+    "H3K9ac": {
+      "value": 10,
+      "operator": ">="
+    }
+  },
+  "rules": {
+    "largePixels": 20,
+    "minArea": 120,
+    "smallLimit": 10,
+    "globalMarkers": 4,
+    "largeGap": 10,
+    "maxSpreadFraction": 0.2
+  },
+  "cofactor": 5,
+  "background_subtraction": false
+}

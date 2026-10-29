@@ -1,0 +1,7 @@
+{
+  "reference_presentation": "IMC_09082026.pptx",
+  "reference_slide": 34,
+  "source_caption": "Mean neuronal p-Akt (S473) signaling after hot-pixel removal and laser refraction noise exclusion.",
+  "difference": "The reference slide used background subtraction and proposed a future size exclusion. This reconstruction uses the later finalized rules, includes size exclusion and applies no background subtraction.",
+  "presentation_changed": false
+}

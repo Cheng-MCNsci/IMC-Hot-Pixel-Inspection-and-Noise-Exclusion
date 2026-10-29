@@ -1,0 +1,158 @@
+{
+  "created_at": "2026-10-29T01:09:45.796Z",
+  "dataset_id": "imc-frozen-proof-18dd5367cbb1f8696e990f74",
+  "marker_id": "p_Akt_S473",
+  "configuration": {
+    "marker_id": "p_Akt_S473",
+    "required_markers": [
+      "TrkA",
+      "p75NTR",
+      "Ret",
+      "p_Tyr",
+      "p_Akt_S473",
+      "p_Akt_T308",
+      "p_PLCg2",
+      "p_S6",
+      "p_CREB",
+      "p_NFkB",
+      "p_ATM",
+      "p_C_Jun",
+      "c_Fos",
+      "H3K9ac"
+    ],
+    "cutoffs": {
+      "TrkA": {
+        "value": 10000,
+        "operator": ">="
+      },
+      "p75NTR": {
+        "value": 100,
+        "operator": ">="
+      },
+      "Ret": {
+        "value": 30,
+        "operator": ">="
+      },
+      "p_Tyr": {
+        "value": 25,
+        "operator": ">="
+      },
+      "p_Akt_S473": {
+        "value": 5,
+        "operator": ">="
+      },
+      "p_Akt_T308": {
+        "value": 200,
+        "operator": ">="
+      },
+      "p_PLCg2": {
+        "value": 10,
+        "operator": ">="
+      },
+      "p_S6": {
+        "value": 15,
+        "operator": ">="
+      },
+      "p_CREB": {
+        "value": 15,
+        "operator": ">="
+      },
+      "p_NFkB": {
+        "value": 20,
+        "operator": ">="
+      },
+      "p_ATM": {
+        "value": 100,
+        "operator": ">="
+      },
+      "p_C_Jun": {
+        "value": 10,
+        "operator": ">="
+      },
+      "c_Fos": {
+        "value": 10,
+        "operator": ">="
+      },
+      "H3K9ac": {
+        "value": 10,
+        "operator": ">="
+      }
+    },
+    "rules": {
+      "largePixels": 20,
+      "minArea": 120,
+      "smallLimit": 10,
+      "globalMarkers": 4,
+      "largeGap": 10,
+      "maxSpreadFraction": 0.2
+    },
+    "cofactor": 5,
+    "background_subtraction": false
+  },
+  "source_neurons": 13542,
+  "retained_neurons": 7440,
+  "first_exclusion_counts": {
+    "area": 6088,
+    "retained": 7440,
+    "cross-marker": 2,
+    "large-gap": 10,
+    "spread-overlap": 2
+  },
+  "spread_review_scope": "Historical mask adoption, including manual-only records. Missing-reference and linked entries contribute no additional mask. This is not a complete new spread review.",
+  "spread_inventory": [
+    {
+      "roi": "B_1_02",
+      "aggregate_id": "B_1_02:aggregate-001",
+      "status": "calculated",
+      "pixels": 649
+    },
+    {
+      "roi": "B_1_02",
+      "aggregate_id": "B_1_02:aggregate-002",
+      "status": "covered_by_neighbor",
+      "pixels": 0
+    },
+    {
+      "roi": "nLnK_1_02",
+      "aggregate_id": "nLnK_1_02:aggregate-004",
+      "status": "manual_only",
+      "pixels": 374
+    },
+    {
+      "roi": "nLnK_1_02",
+      "aggregate_id": "nLnK_1_02:aggregate-005",
+      "status": "manual_only",
+      "pixels": 160
+    },
+    {
+      "roi": "nLnK_1_04",
+      "aggregate_id": "nLnK_1_04:aggregate-003",
+      "status": "reference_not_drawn",
+      "pixels": 0
+    }
+  ],
+  "inputs": {
+    "catalog": {
+      "file": "catalog.json",
+      "sha256": "d8358e4ddc819f2961526c487f928348901372ff721ddd6c2022fab3d4b8dc2d"
+    },
+    "configuration": {
+      "file": "quantification_config.json",
+      "sha256": "911c2bb0a775fc8a056f0bdfc36ff7f3e6028b44d800c0feba209581abc4dd0c"
+    },
+    "reviewed_spread_union": {
+      "file": "frozen_spread_masks.json",
+      "sha256": "3aa4323c8036abd61c37d1b285297df47b13c5cfc278c781ad782c2b194d5f53"
+    },
+    "aggregate_engine": {
+      "file": "aggregate_engine.js",
+      "sha256": "d7ac87f2162cb771b35291c5d3f01aab776b9f4b2277571df9d04b3f4e7211ae"
+    },
+    "quantification_code": {
+      "file": "quantify_marker.cjs",
+      "sha256": "4320a2b3ac4403e30c8fe4eab2bbc5eee377e3a16b1d91fe9165e172b4fc6d9e"
+    }
+  },
+  "pixel_removal": "Union of all hot pixels and adopted spread pixels; remove from numerator AND denominator. Remaining zeros count. No background subtraction. No intensity-based cell trimming.",
+  "scope": "One marker quantified; all required markers evaluated for the global small-hot-pixel rule."
+}
