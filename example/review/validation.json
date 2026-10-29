@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "roi_count": 5,
+  "channel_count": 16,
+  "labeled_cells": 5977,
+  "selected_cells": 2401,
+  "measurements": 95632,
+  "warnings": [
+    "Numerical checks cannot establish correct image orientation, segmentation quality, channel identity or biological validity. Inspect the overlay."
+  ],
+  "checks": [
+    "unique IDs",
+    "explicit channel mapping",
+    "finite nonnegative intensities",
+    "label-image shapes",
+    "positive XY calibration",
+    "population-label matching"
+  ]
+}

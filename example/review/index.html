@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IMC hot pixel inspection &amp; noise exclusion · cell review</title>
+  <link rel="stylesheet" href="review.css?v=85d4baacd812">
+  <script src="review.js?v=491095477cb3" defer></script>
+</head>
+<body>
+  <main>
+    <header class="page-header">
+      <div>
+        <p class="eyebrow">IMC hot pixel inspection &amp; noise exclusion · Chapter 2</p><h1 id="page-title">Cell intensity review</h1>
+        <p>150 × 150 µm crops · Raw whole-cell measurements · Cells selected by your input metadata</p><p id="dataset"></p><p><a href="../../index.html#inspect">← Illustrated tutorial</a> · Neuronal / selected-cell review · <a href="aggregates.html">Next: hot-pixel aggregate inspection →</a></p><p id="roi-mean-intensity" aria-live="polite"></p>
+      </div>
+      <span id="review-count" class="status-pill" aria-live="polite">Loading review data…</span>
+    </header>
+
+    <article class="controls" aria-label="ROI selection and image settings">
+      <div class="selection-row">
+        <label>Marker<select id="marker" aria-label="Select marker"></select></label>
+        <label>ROI<select id="roi" aria-label="Select ROI"></select></label>
+        <label>Review list<select id="queue"><option value="primary">Top 5% by mean</option><option value="secondary">High-pixel contribution</option><option value="all">All selected cells</option></select></label>
+        <div class="backup-controls"><a href="#working-cutoff" class="cutoff-link">Record working cutoff ↓</a><button id="export-all-markers" type="button" class="secondary small">Export all markers</button><button id="export-reviews" type="button" class="secondary small">Export selected marker</button><label class="import-label">Import reviews<input id="import-reviews" type="file" accept=".json,application/json"></label></div>
+      </div>
+      <p id="message" class="help" role="status"></p>
+      <p id="selection-info" class="help"></p>
+      <div class="settings-row">
+        <div class="setting-group display-controls">
+          <label>Display maximum<input id="display-max" type="number" min="0" step="any" placeholder="Auto"></label>
+          <button id="display-original" type="button" class="secondary small">Original display…</button>
+          <button id="display-review" type="button" class="secondary small">Review display…</button>
+        </div>
+        <label>High intensity: I &gt;<input id="threshold" type="number" min="0" step="any" placeholder="Not set"></label>
+        <fieldset class="bin-inputs"><legend>Intensity bin boundaries</legend><label class="sr-only" for="bin1">First bin boundary</label><input id="bin1" type="number" min="0" step="any"><label class="sr-only" for="bin2">Second bin boundary</label><input id="bin2" type="number" min="0" step="any"><label class="sr-only" for="bin3">Third bin boundary</label><input id="bin3" type="number" min="0" step="any"></fieldset>
+        <button id="apply-settings" type="button">Apply settings</button>
+        <label>Compare intensity bin<select id="comparison-bin" aria-label="Compare intensity bin"></select></label>
+      </div>
+      <div id="error" class="error" role="alert"></div><p class="help">Enter three positive, increasing bin boundaries in raw intensity units. Settings start blank for each marker. The exploratory threshold and display maximum are separate from the working cutoff recorded below.</p>
+      <p id="display-note" class="help"></p>
+      <div class="gallery-settings">
+        <div class="image-tools">
+          <label class="inline-label">Zoom all <select id="zoom"><option value="1">1×</option><option value="2">2×</option><option value="4">4×</option></select></label>
+          <button id="reset-view" type="button" class="secondary small">Reset all views</button>
+          <label class="check-label"><input id="outlines" type="checkbox" checked>Mask outlines</label>
+          <label class="check-label"><input id="all-outlines" type="checkbox" checked>Show all cell outlines in crop</label>
+          <label class="inline-label">Mask style <select id="outline-style"><option value="visible">High visibility</option><option value="subtle">Original · subtle</option></select></label>
+          <label class="check-label"><input id="bin-outline" type="checkbox">Outline on bins</label>
+        </div>
+        <p id="outline-legend" class="help"><strong>Outline colors:</strong> <span class="mask-key selected">■</span> Yellow: cell under review. <span class="mask-key included">■</span> Cyan: other cells in the review population (neurons in this example). <span class="mask-key excluded">■</span> Magenta: cells outside that population (non-neuronal cells in this example). Turn off <strong>Show all cell outlines in crop</strong> to isolate the reviewed cell. Colors follow your input population flags; they are not an automatic cell-type prediction. High visibility keeps a dark border for contrast.</p>
+      </div>
+      <div id="legend" class="legend" aria-label="Intensity range legend"></div>
+      <div class="metric-explanation" aria-label="Mean and signal explained">
+        <p><strong>Total cell signal</strong> is the sum of all raw selected-marker pixel intensities in the cell. <strong>Whole-cell mean</strong> is that total divided by all cell pixels, including zeros.</p>
+        <p>For either displayed range, <strong>contribution to mean</strong> = the range’s intensity sum ÷ all cell pixels; <strong>% of total cell signal</strong> = the range’s intensity sum ÷ total cell signal × 100. These express the same contribution in raw mean-intensity units and as a percentage.</p>
+        <details><summary>Example and boundary rule</summary><p>A cell with total signal 56 across 155 pixels has mean 0.36129. A range with intensity sum 10 contributes 0.06452 to that mean, or 17.86% of the cell’s signal. Bins include their upper boundary: 3 &lt; I ≤ 10 includes pixels equal to 10; I &gt; 10 excludes them.</p></details>
+      </div>
+      <p class="help review-instructions">Review changes save when you leave a field or select Save review. Viewing alone does not mark a cell reviewed. Export all markers saves every marker’s settings, cutoff decisions and annotations. Import reviews merges matching tutorial records, keeping newer timestamps.</p>
+      <details class="tutorial-notes"><summary>Input provenance and additional display options</summary><p id="provenance" class="help"></p><div class="settings-row"><label>Crop width/height (µm)<select id="crop"><option>150</option><option>300</option><option>75</option><option>30</option></select></label><label>Context display maximum<input id="context-max" type="number" min="0" step="any" placeholder="Auto"></label><button id="apply-context" class="secondary">Apply context display</button></div><p class="help">The context channel uses automatic contrast until you set a display maximum. For the supplied TH example, 180 reproduces the original review display. Other datasets may require another value. Neither display changes raw measurements. Gray checkerboard means outside the acquired ROI. Pink/magenta intensity-bin fills indicate the highest bin, not cell type.</p></details>
+    </article>
+
+    <div id="neuron-list" class="neuron-list" aria-label="Selected cells in review order"></div>
+
+    <template id="neuron-row-template">
+      <article class="neuron-row" data-cell-id="">
+        <div class="image-toolbar">
+          <h2 data-role="heading">Neuron review</h2>
+          <div class="image-tools">
+            <label class="inline-label">Zoom <select data-role="zoom"><option value="1">1×</option><option value="2">2×</option><option value="4">4×</option></select></label>
+            <button data-role="reset" type="button" class="secondary small">Reset view</button>
+            <button data-role="peak" type="button" class="secondary small">Locate brightest pixel</button>
+          </div>
+        </div>
+        <div class="panels">
+          <section class="image-panel"><h3 data-role="marker-title">Marker</h3><canvas data-panel="plain" width="450" height="450" aria-label="Raw marker image centered on this cell"></canvas></section>
+          <section class="image-panel"><h3 data-role="context-title">Context + selected mask</h3><canvas data-panel="th" width="450" height="450" aria-label="Context image with selected cell outline"></canvas></section>
+          <section class="image-panel"><h3 data-role="outline-title">Marker + selected mask</h3><canvas data-panel="outline" width="450" height="450" aria-label="Raw marker image with selected cell outline"></canvas></section>
+          <section class="image-panel"><h3>Intensity ranges within selected mask</h3><canvas data-panel="bins" width="450" height="450" aria-label="Raw intensity ranges inside this cell mask"></canvas></section>
+        </div>
+        <div class="image-notes"><p data-role="crop-note" class="help"></p><p data-role="hover-info" class="pixel-readout" aria-live="off">Hover over a pixel to inspect its raw intensity.</p></div>
+        <div data-role="metrics" class="metrics" aria-label="Whole-cell quantitative measurements"></div>
+        <div data-role="range-comparison" class="range-comparison" aria-label="Selected bin and high-threshold contributions"></div>
+        <details class="quantitative-panel">
+          <summary>Intensity range breakdown</summary>
+          <div class="table-scroll"><table><thead><tr><th scope="col">Intensity range</th><th scope="col">Pixels</th><th scope="col">% cell area</th><th scope="col">Intensity sum</th><th scope="col">Contribution to mean</th><th scope="col">% cell signal</th></tr></thead><tbody data-role="bin-table"></tbody></table></div>
+          <p data-role="formula-note" class="help"></p>
+        </details>
+        <div class="review-panel">
+          <div class="review-fields">
+            <label>Mask placement<select data-role="mask-review"><option value="">Not reviewed</option><option value="plausible">Acceptable / plausible</option><option value="problematic">Problematic</option><option value="uncertain">Uncertain</option></select></label>
+            <label>Brightest pixels<select data-role="bright-review"><option value="">Not reviewed</option><option value="plausible">Plausible signal</option><option value="artifact">Suspected artifact</option><option value="uncertain">Uncertain</option></select></label>
+            <label class="notes-label">Notes<textarea data-role="notes" rows="1" placeholder="Describe the pattern and evidence for this cell"></textarea></label>
+            <button data-role="save" type="button">Save review</button>
+          </div>
+          <div class="review-footer"><span data-role="review-status" class="help" aria-live="polite">Not reviewed</span><p data-role="saved-settings-note" class="help"></p></div>
+        </div>
+      </article>
+    </template>
+    <article id="working-cutoff" class="controls cutoff-panel">
+      <h2>Record a marker-specific hot-pixel decision</h2>
+      <p class="help">After inspecting multiple cells and ROIs, record a working cutoff and its evidence. This decision is separate from the exploratory threshold. No aggregate detection or cell exclusion is performed here.</p>
+      <div class="settings-row"><label>Accepted working cutoff<input id="cutoff" type="number" min="0" step="any" placeholder="Not decided"></label><label>Classify hot pixels when<select id="operator"><option value=">=">I ≥ cutoff</option><option value=">">I &gt; cutoff</option></select></label></div>
+      <label class="rationale-label">Decision rationale<textarea id="rationale" rows="2" placeholder="Which cells and ROIs support this boundary? What remains uncertain?"></textarea></label><button id="save-cutoff">Save cutoff decision</button><p id="cutoff-status" class="help"></p>
+    </article>
+    <article class="controls"><details id="population-panel"><summary>Check the full selected population</summary><p class="help">One point per selected cell in this ROI, ranked by raw mean. The y-axis is asinh(raw mean ÷ 5), for display only. Click a point to find its gallery row.</p><canvas id="distribution" width="1000" height="260" aria-label="Ranked cell means"></canvas><p id="plot-readout" class="help"></p></details><p id="storage-status" class="help"></p></article>
+    <footer class="page-footer"><strong>Author and pipeline lead:</strong> Yang Cheng · University of Virginia (UVA) · Christopher Deppmann and Melanie Worley laboratories.<br><strong>Acknowledgments:</strong> Substantial technical assistance, mentoring, and materials from Eli Zunder’s laboratory.<br><strong>Development contributor:</strong> ChatGPT (OpenAI), contributing to code, interface development, documentation, and tutorial construction.<br>Local inspection. Original pixels and measurements remain unchanged.</footer>
+  </main>
+</body>
+</html>

@@ -1,0 +1,27 @@
+{
+  "config": {
+    "dataset_name": "Rat SCG IMC \u00b7 09082026 \u00b7 five-ROI teaching subset",
+    "rois": "rois.csv",
+    "channels": "channels.csv",
+    "cells": "cell_metadata.csv",
+    "context_marker_id": "TH",
+    "intensity_provenance": "Steinbock 0.16.3 extraction with HPF=50; no spillover correction or normalization. Selected quantitative channels preserved exactly. Teaching subset, not independent biological replicates.",
+    "mask_semantics": "User-validated whole-cell analysis regions with unchanged nuclear-origin labels. Original segmentation labels retained; neuronal assignments supplied separately."
+  },
+  "config_sha256": "d5efd4b68d028ac52eb9f7b97b0c0bbf0738ffab319454762a6aae6975d44cbf",
+  "files": {
+    "/Users/yangcheng/Documents/ChatGPT/IMC_Rat_SCG_09082026/All_Marker_Tutorial/example/images/CoN_1_01.tif": "06421ed5e306103c2daefd83846d346cb6251b26fc25c19d816386a2ba4f4159",
+    "/Users/yangcheng/Documents/ChatGPT/IMC_Rat_SCG_09082026/All_Marker_Tutorial/example/masks/CoN_1_01.tif": "299017446cf42e8710a10b04417fd034d5bd4aef1991fa8077fd74dd7f5bdded",
+    "/Users/yangcheng/Documents/ChatGPT/IMC_Rat_SCG_09082026/All_Marker_Tutorial/example/images/nLnK_1_04.tif": "b2b4a1f8ed7d6a277a21dbd9c82c23498fa1783acb790b72dd61b397291fc778",
+    "/Users/yangcheng/Documents/ChatGPT/IMC_Rat_SCG_09082026/All_Marker_Tutorial/example/masks/nLnK_1_04.tif": "022af9045af953483775b6b2adfc2cae3a0e7ae8d9b9c0c568d0cacbe84445fb",
+    "/Users/yangcheng/Documents/ChatGPT/IMC_Rat_SCG_09082026/All_Marker_Tutorial/example/images/nLwK_1_03.tif": "88405012c50fe9d54c8394e9eac374b7a80a73d8370cbf7738a465cf68670cc4",
+    "/Users/yangcheng/Documents/ChatGPT/IMC_Rat_SCG_09082026/All_Marker_Tutorial/example/masks/nLwK_1_03.tif": "2b91b2c1321f89ace9100d50f0f30fba4e93cefe15d386eb54ea5bb20fd1ef1b",
+    "/Users/yangcheng/Documents/ChatGPT/IMC_Rat_SCG_09082026/All_Marker_Tutorial/example/images/N_1_02.tif": "5a647fd0c23021912a4f0fcb1c51f1040060f0e265cde37890cf976ff168abe8",
+    "/Users/yangcheng/Documents/ChatGPT/IMC_Rat_SCG_09082026/All_Marker_Tutorial/example/masks/N_1_02.tif": "1994727ac1c61db774b81061d76b329651a2872ce20d8447850fad9d06f28f85",
+    "/Users/yangcheng/Documents/ChatGPT/IMC_Rat_SCG_09082026/All_Marker_Tutorial/example/images/B_1_02.tif": "8cdf330c7cb12c4014c92b06abd082daaa17481fd468e78dc9acc1616fdfe6f1",
+    "/Users/yangcheng/Documents/ChatGPT/IMC_Rat_SCG_09082026/All_Marker_Tutorial/example/masks/B_1_02.tif": "0ff732df7f562d8da53363d2424288b42d880adf011b1834b14f1651834ff9ed"
+  },
+  "roi_table_sha256": "517cce6e1a53ff3eec23d84c41a0dc6f9491cf80ba97d20e5fb2431a285d8311",
+  "channel_table_sha256": "8cb316e051047e001a0e3c3e468bf169db9e27f52f77a275d8396f4653c2ed88",
+  "cell_table_sha256": "38471dc9d3bc6a13c014828993367fa0be5e672f9ee5c9eb4cbc87cd69c0fbac"
+}
