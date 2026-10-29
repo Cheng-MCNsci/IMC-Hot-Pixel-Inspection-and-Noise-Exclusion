@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+/* Re-run the current endpoint engine on frozen historical review crops/settings. */
+const fs=require('fs'),path=require('path'),assert=require('assert/strict'),E=require('../interface/spread_engine.js');
+const folder=process.argv[2];if(!folder)throw Error('Usage: node code/verify_frozen_spread.cjs spread_inputs');
+const reviews=JSON.parse(fs.readFileSync(path.join(folder,'reviews.json')));
+function decode(s,T){const b=Buffer.from(s,'base64');return new T(b.buffer.slice(b.byteOffset,b.byteOffset+b.length));}
+for(const r of reviews){const id=r.aggregate_id.split('-').at(-1),p=JSON.parse(fs.readFileSync(path.join(folder,`${r.marker_id}_${r.roi}_${id}.json`))),d={width:p.size,height:p.size,size:p.size,sx:1,sy:1,ox:p.ox,oy:p.oy};for(const [k,T] of [['raw',Float32Array],['valid',Uint8Array],['core',Uint8Array],['background',Uint8Array],['distance',Float32Array],['angle',Float32Array]])d[k]=decode(p[k+'_b64'],T);d.referenceSelected=E.referenceRaster(r.reference_polygons.map(poly=>poly.map(([x,y])=>[x+p.ox,y+p.oy])),d);const a=E.analyze(d,r.settings,r.config),pred=Array.from(a.candidateMask).flatMap((v,i)=>v?[i]:[]);assert.deepEqual(pred,[...r.mask.automatic_indices].sort((a,b)=>a-b));const combined=[...new Set([...pred,...r.mask.manual_indices])].sort((a,b)=>a-b);assert.deepEqual(combined,[...r.mask.indices].sort((a,b)=>a-b));console.log('PASS',r.aggregate_id,combined.length,'union pixels match');}
