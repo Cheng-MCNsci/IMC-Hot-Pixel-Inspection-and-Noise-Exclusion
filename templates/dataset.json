@@ -1,0 +1,9 @@
+{
+  "dataset_name": "My IMC experiment",
+  "rois": "rois.csv",
+  "channels": "channels.csv",
+  "cells": null,
+  "context_marker_id": "context",
+  "intensity_provenance": "Describe extraction, hot-pixel filtering, spillover correction and any other processing before these quantitative TIFFs.",
+  "mask_semantics": "Describe segmentation method, reviewed version and whether labels represent nuclei, whole cells, or other analysis regions."
+}

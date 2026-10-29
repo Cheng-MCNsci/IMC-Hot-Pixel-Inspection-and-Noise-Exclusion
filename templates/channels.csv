@@ -1,0 +1,4 @@
+marker_id,marker,channel,channel_index,image_pattern
+marker_A,My marker A,replace_with_isotope,0,
+marker_B,My marker B,replace_with_isotope,1,
+context,My context marker,replace_with_isotope,2,

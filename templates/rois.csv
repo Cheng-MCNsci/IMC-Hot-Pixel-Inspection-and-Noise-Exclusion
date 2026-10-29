@@ -1,0 +1,2 @@
+roi,image_path,mask_path,axes,pixel_size_x_um,pixel_size_y_um,condition,sample
+ROI_01,images/ROI_01.tif,masks/ROI_01_labels.tif,CYX,1,1,control,sample_01

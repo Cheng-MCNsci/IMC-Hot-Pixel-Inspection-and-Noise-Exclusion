@@ -1,0 +1,3 @@
+marker_id,marker,channel,channel_index,image_pattern
+marker_A,My marker A,replace_with_isotope,,images/{roi}_marker_A.tif
+context,My context marker,replace_with_isotope,,images/{roi}_context.tif
