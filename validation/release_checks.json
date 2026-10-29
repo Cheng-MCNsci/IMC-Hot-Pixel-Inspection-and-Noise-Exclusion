@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "date": "2026-10-28",
+  "passed": [
+    "preparation: 4 contract tests",
+    "aggregate: threshold, 8-connectivity, cell-mask geometry and 200 exhaustive comparisons",
+    "spread: 75% default, endpoints, calibration, immutable pixels and worker geometry",
+    "quantification: union, denominator, zeros, exclusions, empty outputs and matching cutoff provenance",
+    "review import/export: dataset identity, newer-record merging and atomic validation",
+    "parallel workflow: six nodes, ten direct dependency connections"
+  ],
+  "prior_data_validation": "See example/quantification/validation.json and other recorded checks.",
+  "scope": "Computational validation; human mask and biological review are still required."
+}

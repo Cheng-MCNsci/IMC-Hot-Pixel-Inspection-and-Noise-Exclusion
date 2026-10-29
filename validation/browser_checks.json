@@ -1,0 +1,49 @@
+{
+  "status": "passed",
+  "checks": [
+    "ordered scrolling gallery and blank defaults",
+    "independent raw-pixel bin metrics including equality",
+    "bin comparison",
+    "outline toggles",
+    "synchronized zoom/pan and maximum locator",
+    "unchanged full-mask metrics after navigation",
+    "autosave and viewing does not mark reviewed",
+    "invalid-bin rejection",
+    "display shortcuts",
+    "marker isolation",
+    "cutoff and all/single-marker export",
+    "secondary queue",
+    "reload and previous tutorial schema compatibility",
+    "import and mismatched-dataset rejection",
+    "desktop and narrow layout",
+    "no page errors",
+    "independent anisotropic fixture: no context, sparse uint32 labels, zero-inclusive means, strict threshold and calibrated pan/peak"
+  ],
+  "annotation_scope": "Only isolated temporary browser contexts; production annotations untouched.",
+  "mask_visibility_check": {
+    "status": "passed",
+    "browser": "User Chrome tab",
+    "checks": [
+      "high-visibility contour visible on bright TH context",
+      "original subtle style still available",
+      "full-cell measurements unchanged after switching styles",
+      "no page error"
+    ]
+  },
+  "all_cell_outlines_check": {
+    "status": "passed",
+    "browser": "User Chrome tab",
+    "cell": "CoN_1_01:964",
+    "checks": [
+      "yellow selected outline preserved",
+      "cyan included and magenta excluded populations visible",
+      "selected-only toggle removes neighbors",
+      "complete-cell measurements unchanged",
+      "no page error"
+    ],
+    "independent_input_check": {
+      "other_included_labels_in_crop": 11,
+      "excluded_labels_in_crop": 6
+    }
+  }
+}

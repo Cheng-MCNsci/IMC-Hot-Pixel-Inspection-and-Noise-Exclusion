@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-28",
+  "historical_engine_comparison": [
+    {
+      "marker": "TrkA",
+      "roi": "nLnK_1_04",
+      "matched": "Every reference statistic, sector state, endpoint, automatic/reference/unresolved mask pixel matches original engine at historical settings"
+    },
+    {
+      "marker": "p_Akt_S473",
+      "roi": "B_1_02",
+      "matched": "Every reference statistic, sector state, endpoint, automatic/reference/unresolved mask pixel matches original engine at historical settings"
+    }
+  ],
+  "engine_contracts": "passed",
+  "worker_calibrated_geometry": "passed against independent brute force",
+  "preparation_contracts": "4 passed",
+  "chrome": {
+    "75_percent_default": true,
+    "reference_draw_30_patches_2332_pixels": true,
+    "candidate_endpoints": 8,
+    "reload_preserves_decision_and_notes": true,
+    "input_change_resets_acceptance": true,
+    "manual_grid_add_and_undo": true,
+    "download_export_accepted_core_separation": true,
+    "automatic_candidate_pixels": 511,
+    "import_via_file_chooser": "not exercised"
+  },
+  "backup_contracts": "Actual Chrome export imported; mismatched dataset and invalid manual pixels rejected; newer records preserved",
+  "teaching_example_revision": {
+    "date": "2026-10-28",
+    "replacement": "p_Tyr / N_1_02 / original aggregate 002",
+    "anchor": 725348,
+    "historical_spread_pixels": 1002,
+    "below_hot_cutoff_pixels": 1002,
+    "cutoff": 25,
+    "median_intensity": 2,
+    "display_max": 10,
+    "selected_by": "Visual comparison of eight historical p-Tyr crops; fan-shaped spread visible below the selected core",
+    "pAkt_example": "retained"
+  }
+}

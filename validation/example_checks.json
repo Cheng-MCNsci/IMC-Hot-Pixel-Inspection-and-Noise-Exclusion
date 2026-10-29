@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "roi_count": 5,
+  "channels_including_context": 16,
+  "quantitative_planes_checked": 80,
+  "masks_checked": 5,
+  "selected_cells": 2401,
+  "cell_marker_measurement_rows_checked": 95632,
+  "checks": [
+    "All redistributed selected planes match recorded original float32 plane hashes",
+    "All prepared Float64 pixels equal redistributed source TIFFs exactly",
+    "All label arrays and content hashes match",
+    "Every cell/channel pixel count, sum and mean independently recalculated from TIFFs",
+    "Original All Marker population preserved: 2401 selected analysis regions"
+  ]
+}

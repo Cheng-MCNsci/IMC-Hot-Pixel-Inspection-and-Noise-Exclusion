@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-28",
+  "numeric_engine": "PASS: synthetic cutoff/connectivity/calibration/strict-boundary tests and 200 exhaustive random gap comparisons",
+  "preparation_tests": "PASS: 4 existing preparation contract tests",
+  "independent_scipy": {
+    "status": "PASS",
+    "rois": [
+      "CoN_1_01",
+      "nLnK_1_04"
+    ],
+    "marker_roi_comparisons": 28,
+    "component_checks": 1522,
+    "full_mask_gap_checks": 37655,
+    "checked": "component anchors, sizes, sums, maxima, per-cell hot/small counts, cross-marker counts, complete nearby-cell sets and distances"
+  },
+  "browser_chrome": {
+    "status": "PASS for tested interactions",
+    "checks": [
+      "Example 14-marker calculation completed",
+      "Four panels, all cell outlines and nearby-cell table visually checked",
+      "Table selection draws shortest gap; brightest-pixel locator zooms correctly",
+      "Missing marker cutoff is pending with lower-bound counts",
+      "Gallery minimum changes visibility but preserves flags",
+      "Notes save and survive page refresh",
+      "JSON export downloaded and parsed",
+      "No-hot-pixel ROI gives an explicit empty-result message"
+    ],
+    "import_check": "Downloaded export round trip, schema validation and Chapter 2 decision import passed in isolated Node unit execution. Native Chrome import automation was unavailable because the browser extension lacks local file access; no browser permissions were changed."
+  }
+}

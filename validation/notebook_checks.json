@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "code_cells": 6,
+  "execution": "Sequential Python execution of all code cells in tutorial root, with captured stdout; no Jupyter kernel launch needed.",
+  "python": "3.10.19",
+  "note": "No segmentation, classification or correction performed."
+}

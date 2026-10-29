@@ -1,0 +1,302 @@
+{
+  "schema_version": 1,
+  "export_type": "imc-cell-inspection",
+  "dataset_id": "imc-review-b590fe1c3ca7a4488b81ffcb",
+  "markers": {
+    "TrkA": {
+      "settings": {
+        "display": null,
+        "bins": null,
+        "threshold": null
+      },
+      "cutoff": null
+    },
+    "p75NTR": {
+      "settings": {
+        "display": null,
+        "bins": null,
+        "threshold": null
+      },
+      "cutoff": null
+    },
+    "Ret": {
+      "settings": {
+        "display": null,
+        "bins": null,
+        "threshold": null
+      },
+      "cutoff": null
+    },
+    "p_Tyr": {
+      "settings": {
+        "display": null,
+        "bins": null,
+        "threshold": null
+      },
+      "cutoff": null
+    },
+    "p_Akt_S473": {
+      "settings": {
+        "display": 6,
+        "threshold": 5,
+        "bins": [
+          1,
+          3,
+          5
+        ]
+      },
+      "cutoff": {
+        "value": 5,
+        "operator": ">=",
+        "rationale": "ISOLATED AUTOMATED TEST: not a production cutoff.",
+        "updated_at": "2026-10-28T18:16:27.368Z"
+      },
+      "updated_at": "2026-10-28T18:16:27.368Z",
+      "display_presets": {
+        "review": 6
+      }
+    },
+    "p_Akt_T308": {
+      "settings": {
+        "display": null,
+        "bins": null,
+        "threshold": null
+      },
+      "cutoff": null
+    },
+    "p_PLCg2": {
+      "settings": {
+        "display": null,
+        "bins": null,
+        "threshold": null
+      },
+      "cutoff": null
+    },
+    "p_S6": {
+      "settings": {
+        "display": null,
+        "bins": null,
+        "threshold": null
+      },
+      "cutoff": null
+    },
+    "p_CREB": {
+      "settings": {
+        "display": null,
+        "bins": null,
+        "threshold": null
+      },
+      "cutoff": null
+    },
+    "p_NFkB": {
+      "settings": {
+        "display": null,
+        "bins": null,
+        "threshold": null
+      },
+      "cutoff": null
+    },
+    "p_ATM": {
+      "settings": {
+        "display": null,
+        "bins": null,
+        "threshold": null
+      },
+      "cutoff": null
+    },
+    "p_C_Jun": {
+      "settings": {
+        "display": null,
+        "bins": null,
+        "threshold": null
+      },
+      "cutoff": null
+    },
+    "c_Fos": {
+      "settings": {
+        "display": null,
+        "bins": null,
+        "threshold": null
+      },
+      "cutoff": null
+    },
+    "H3K9ac": {
+      "settings": {
+        "display": null,
+        "bins": null,
+        "threshold": null
+      },
+      "cutoff": null
+    },
+    "cl_Casp3": {
+      "settings": {
+        "display": null,
+        "bins": null,
+        "threshold": null
+      },
+      "cutoff": null
+    },
+    "TH": {
+      "settings": {
+        "display": null,
+        "bins": null,
+        "threshold": null
+      },
+      "cutoff": null
+    }
+  },
+  "reviews": {
+    "p_Akt_S473::N_1_02::685": {
+      "marker_id": "p_Akt_S473",
+      "roi": "N_1_02",
+      "mask_label": 685,
+      "cell_id": "N_1_02:685",
+      "mask_assessment": "plausible",
+      "pixel_assessment": "uncertain",
+      "notes": "ISOLATED AUTOMATED TEST: no biological conclusion.",
+      "settings": {
+        "display": 5,
+        "threshold": 5,
+        "bins": [
+          1,
+          3,
+          5
+        ]
+      },
+      "updated_at": "2026-10-28T18:16:26.286Z"
+    }
+  },
+  "exported_at": "2026-10-28T18:16:27.399Z",
+  "dataset_name": "Rat SCG IMC · 09082026 · five-ROI teaching subset",
+  "channel_mapping": [
+    {
+      "marker_id": "TrkA",
+      "marker": "TrkA",
+      "channel": "Ho165",
+      "channel_index": "0",
+      "image_pattern": "",
+      "original_panel_index": "36"
+    },
+    {
+      "marker_id": "p75NTR",
+      "marker": "p75NTR",
+      "channel": "Dy161",
+      "channel_index": "1",
+      "image_pattern": "",
+      "original_panel_index": "32"
+    },
+    {
+      "marker_id": "Ret",
+      "marker": "Ret",
+      "channel": "Yb171",
+      "channel_index": "2",
+      "image_pattern": "",
+      "original_panel_index": "42"
+    },
+    {
+      "marker_id": "p_Tyr",
+      "marker": "p-Tyr",
+      "channel": "Nd146",
+      "channel_index": "3",
+      "image_pattern": "",
+      "original_panel_index": "17"
+    },
+    {
+      "marker_id": "p_Akt_S473",
+      "marker": "p-Akt (S473)",
+      "channel": "Nd142",
+      "channel_index": "4",
+      "image_pattern": "",
+      "original_panel_index": "13"
+    },
+    {
+      "marker_id": "p_Akt_T308",
+      "marker": "p-Akt (T308)",
+      "channel": "Tm169",
+      "channel_index": "5",
+      "image_pattern": "",
+      "original_panel_index": "40"
+    },
+    {
+      "marker_id": "p_PLCg2",
+      "marker": "p-PLCg2",
+      "channel": "Nd144",
+      "channel_index": "6",
+      "image_pattern": "",
+      "original_panel_index": "15"
+    },
+    {
+      "marker_id": "p_S6",
+      "marker": "p-S6",
+      "channel": "Sm149",
+      "channel_index": "7",
+      "image_pattern": "",
+      "original_panel_index": "20"
+    },
+    {
+      "marker_id": "p_CREB",
+      "marker": "p-CREB",
+      "channel": "Yb176",
+      "channel_index": "8",
+      "image_pattern": "",
+      "original_panel_index": "47"
+    },
+    {
+      "marker_id": "p_NFkB",
+      "marker": "p-NFkB",
+      "channel": "Er166",
+      "channel_index": "9",
+      "image_pattern": "",
+      "original_panel_index": "37"
+    },
+    {
+      "marker_id": "p_ATM",
+      "marker": "p-ATM",
+      "channel": "Tb159",
+      "channel_index": "10",
+      "image_pattern": "",
+      "original_panel_index": "30"
+    },
+    {
+      "marker_id": "p_C_Jun",
+      "marker": "p-C-Jun",
+      "channel": "Dy162",
+      "channel_index": "11",
+      "image_pattern": "",
+      "original_panel_index": "33"
+    },
+    {
+      "marker_id": "c_Fos",
+      "marker": "c-Fos",
+      "channel": "Gd155",
+      "channel_index": "12",
+      "image_pattern": "",
+      "original_panel_index": "26"
+    },
+    {
+      "marker_id": "H3K9ac",
+      "marker": "H3K9ac",
+      "channel": "In115",
+      "channel_index": "13",
+      "image_pattern": "",
+      "original_panel_index": "4"
+    },
+    {
+      "marker_id": "cl_Casp3",
+      "marker": "cl. Casp3",
+      "channel": "Yb173",
+      "channel_index": "14",
+      "image_pattern": "",
+      "original_panel_index": "44"
+    },
+    {
+      "marker_id": "TH",
+      "marker": "TH (context)",
+      "channel": "Dy163",
+      "channel_index": "15",
+      "image_pattern": "",
+      "original_panel_index": "34"
+    }
+  ],
+  "scope": "Inspection settings, cell assessments and working cutoffs only; no final exclusions or corrections applied."
+}
